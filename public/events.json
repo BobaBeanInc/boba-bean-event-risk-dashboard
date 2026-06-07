@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T15:36:20.286Z",
+  "updatedAt": "2026-06-07T20:07:58.964Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Low",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:06.517Z",
+      "lastChecked": "2026-06-07T20:07:46.401Z",
       "candidateCount": 9,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:08.892Z",
+      "lastChecked": "2026-06-07T20:07:47.157Z",
       "candidateCount": 5,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:11.440Z",
+      "lastChecked": "2026-06-07T20:07:49.553Z",
       "candidateCount": 5,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:11.766Z",
+      "lastChecked": "2026-06-07T20:07:49.856Z",
       "candidateCount": 11,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-06-07T15:36:12.161Z",
+      "lastChecked": "2026-06-07T20:07:50.562Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -55,7 +55,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-06-07T15:36:12.428Z",
+      "lastChecked": "2026-06-07T20:07:50.832Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:12.653Z",
+      "lastChecked": "2026-06-07T20:07:51.021Z",
       "candidateCount": 26,
       "error": null
     },
@@ -71,7 +71,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmill.com/events",
       "status": "Failed",
-      "lastChecked": "2026-06-07T15:36:13.188Z",
+      "lastChecked": "2026-06-07T20:07:51.715Z",
       "candidateCount": 0,
       "error": "Request timed out after 15000ms"
     },
@@ -79,7 +79,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:18.284Z",
+      "lastChecked": "2026-06-07T20:07:56.795Z",
       "candidateCount": 7,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-07T15:36:18.642Z",
+      "lastChecked": "2026-06-07T20:07:57.174Z",
       "candidateCount": 31,
       "error": null
     }
