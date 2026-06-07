@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boba Bean Local Event Risk Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ─── Header ─────────────────────────────────────────── -->
+  <header class="site-header">
+    <div class="header-inner container">
+      <div class="header-brand">
+        <div class="header-logo" aria-hidden="true">🧋</div>
+        <div class="header-text">
+          <h1 class="header-title">Boba Bean Local Event Risk</h1>
+          <p class="header-subtitle">Events that may affect traffic, especially after 5 PM</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="meta-location">📍 Concord, NC</span>
+        <span class="meta-updated" id="last-updated">Last updated: —</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" id="main-content">
+
+    <!-- ─── Loading state ──────────────────────────────────── -->
+    <div id="loading-state" class="state-block state-loading" role="status" aria-live="polite">
+      <div class="spinner" aria-hidden="true"></div>
+      <p>Loading event data…</p>
+    </div>
+
+    <!-- ─── Error state ────────────────────────────────────── -->
+    <div id="error-state" class="state-block state-error" hidden role="alert">
+      <div class="state-icon" aria-hidden="true">⚠️</div>
+      <h2>Could not load event data</h2>
+      <p id="error-message">events.json could not be loaded. Run <code>npm run scan</code> to generate it.</p>
+      <p class="state-hint">If this is your first time running the dashboard, try: <code>npm run scan</code> in your terminal.</p>
+    </div>
+
+    <!-- ─── Dashboard (hidden until data loads) ────────────── -->
+    <div id="dashboard" hidden>
+
+      <!-- Summary Cards -->
+      <section class="section" aria-labelledby="summary-heading">
+        <h2 id="summary-heading" class="section-title">Risk Summary</h2>
+        <div class="summary-grid" id="summary-cards">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- Filters -->
+      <section class="section" aria-labelledby="filter-heading">
+        <h2 id="filter-heading" class="sr-only">Filter Events</h2>
+        <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter events">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="today">Today</button>
+          <button class="filter-btn" data-filter="tonight">Tonight after 5 PM</button>
+          <button class="filter-btn" data-filter="tomorrow">Tomorrow</button>
+          <button class="filter-btn" data-filter="week">Next 7 Days</button>
+          <button class="filter-btn" data-filter="high">High Risk</button>
+          <button class="filter-btn" data-filter="opportunity">Opportunities</button>
+          <button class="filter-btn" data-filter="review">Needs Review</button>
+        </div>
+      </section>
+
+      <!-- Event Cards -->
+      <section class="section" aria-labelledby="events-heading">
+        <h2 id="events-heading" class="section-title">
+          Events
+          <span class="event-count-badge" id="event-count-badge"></span>
+        </h2>
+
+        <div id="no-events-state" class="state-block state-empty" hidden>
+          <div class="state-icon" aria-hidden="true">📅</div>
+          <h3>No events match this filter</h3>
+          <p>Try a different filter, or add events manually in <code>public/manual-events.json</code>.</p>
+        </div>
+
+        <div id="events-list" class="events-grid" role="list">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- Source Health -->
+      <section class="section" aria-labelledby="sources-heading">
+        <h2 id="sources-heading" class="section-title">Source Health</h2>
+        <p class="section-description">
+          Status of each data source from the last scan. A "Failed" or "Partial" source does not break the dashboard — it just means fewer events may appear from that source.
+        </p>
+        <div id="source-health-list" class="source-health-grid">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+    </div><!-- end #dashboard -->
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p class="footer-disclaimer">
+        ⚠️ <strong>This is a decision aid, not a perfect forecast.</strong>
+        Event data may be incomplete or outdated. Verify important events before making staffing decisions.
+      </p>
+      <p class="footer-credit">Boba Bean, Inc. · Concord, NC · Built for local business owners</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

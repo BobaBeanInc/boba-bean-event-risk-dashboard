@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Downtown Concord",
+    "url": "https://downtownconcordnc.com/event-calendar/",
+    "defaultDistanceMiles": 4,
+    "sourceWeight": 9,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "City of Kannapolis Calendar",
+    "url": "https://www.kannapolisnc.gov/Community/Calendar",
+    "defaultDistanceMiles": 8,
+    "sourceWeight": 8,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "Explore Cabarrus Events",
+    "url": "https://www.explorecabarrus.com/events/",
+    "defaultDistanceMiles": 7,
+    "sourceWeight": 8,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "Cabarrus Arena Events",
+    "url": "https://www.cabarrusarena.com/events",
+    "defaultDistanceMiles": 8,
+    "sourceWeight": 7,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "Kannapolis Cannon Ballers Schedule",
+    "url": "https://www.milb.com/kannapolis/schedule",
+    "defaultDistanceMiles": 8,
+    "sourceWeight": 7,
+    "audienceRelevance": "medium-high",
+    "enabled": true
+  },
+  {
+    "name": "Charlotte Motor Speedway",
+    "url": "https://www.charlottemotorspeedway.com/events/",
+    "defaultDistanceMiles": 16,
+    "sourceWeight": 8,
+    "audienceRelevance": "medium-high",
+    "enabled": true
+  },
+  {
+    "name": "Concord Mills Events",
+    "url": "https://www.simon.com/mall/concord-mills/stream/events",
+    "defaultDistanceMiles": 7,
+    "sourceWeight": 7,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "Gibson Mill",
+    "url": "https://www.gibsonmill.com/events",
+    "defaultDistanceMiles": 4,
+    "sourceWeight": 7,
+    "audienceRelevance": "medium-high",
+    "enabled": true
+  },
+  {
+    "name": "The Bank Food Hall",
+    "url": "https://www.thebankfoodhall.com/",
+    "defaultDistanceMiles": 9,
+    "sourceWeight": 6,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "Cabarrus Brewing Company",
+    "url": "https://www.cabarrusbrewing.com/events",
+    "defaultDistanceMiles": 4,
+    "sourceWeight": 5,
+    "audienceRelevance": "medium",
+    "enabled": true
+  }
+]

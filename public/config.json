@@ -1,0 +1,14 @@
+{
+  "businessName": "Boba Bean",
+  "city": "Concord",
+  "state": "NC",
+  "timezone": "America/New_York",
+  "primaryRiskWindowStart": "17:00",
+  "primaryRiskWindowEnd": "21:00",
+  "lookaheadDays": 7,
+  "highRiskThreshold": 75,
+  "moderateRiskThreshold": 45,
+  "lowRiskThreshold": 25,
+  "businessLatitude": 35.4088,
+  "businessLongitude": -80.5795
+}

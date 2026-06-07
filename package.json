@@ -1,0 +1,19 @@
+{
+  "name": "boba-bean-event-risk-dashboard",
+  "version": "1.0.0",
+  "description": "Local event risk dashboard for Boba Bean, Inc. in Concord, NC",
+  "main": "scripts/scan-events.js",
+  "scripts": {
+    "scan": "node scripts/scan-events.js",
+    "validate": "node scripts/validate-data.js",
+    "start": "node scripts/scan-events.js",
+    "serve": "npx serve public"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

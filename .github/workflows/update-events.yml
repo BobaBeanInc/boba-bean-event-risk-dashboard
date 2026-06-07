@@ -1,0 +1,46 @@
+name: Update Event Risk Data
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 9 AM Eastern
+    - cron: "0 19 * * *"   # 3 PM Eastern
+  workflow_dispatch:        # Manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run event scan
+        run: npm run scan
+
+      - name: Validate output
+        run: npm run validate
+
+      - name: Commit updated events.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/events.json
+          if git diff --staged --quiet; then
+            echo "No changes to events.json — nothing to commit."
+          else
+            git commit -m "chore: update event risk data [skip ci]"
+            git push
+          fi
