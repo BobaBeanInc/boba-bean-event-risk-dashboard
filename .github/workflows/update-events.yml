@@ -41,6 +41,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to events.json — nothing to commit."
           else
-            git commit -m "chore: update event risk data [skip ci]"
+            git commit -m "chore: update event risk data"
             git push
           fi
