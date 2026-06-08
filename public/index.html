@@ -69,7 +69,26 @@
           <button class="filter-btn" data-filter="review">Needs Review</button>
         </div>
       </section>
-
+<!-- Source Filter -->
+      <section class="section" aria-labelledby="source-filter-heading">
+        <h2 id="source-filter-heading" class="sr-only">Filter by source</h2>
+        <details class="source-filter-toggle">
+          <summary class="source-filter-summary">
+            <span class="source-filter-label-main">Filter by source</span>
+            <span class="source-filter-count" id="source-filter-count">Loading…</span>
+          </summary>
+          <div class="source-filter-panel">
+            <div class="source-filter-actions">
+              <button type="button" class="source-filter-action" id="source-filter-select-all">Select all</button>
+              <button type="button" class="source-filter-action" id="source-filter-select-none">Select none</button>
+            </div>
+            <div class="source-filter-checkboxes" id="source-filter-checkboxes">
+              <!-- Populated by app.js -->
+            </div>
+            <p class="source-filter-note">Hidden sources are removed from the event list below. Summary numbers above still include all sources.</p>
+          </div>
+        </details>
+      </section>
       <!-- Event Cards -->
       <section class="section" aria-labelledby="events-heading">
         <h2 id="events-heading" class="section-title">
