@@ -234,12 +234,13 @@ async function main() {
   try {
     const raw = loadJSON(path.join(PUBLIC_DIR, 'manual-events.json'));
     manualEvents = Array.isArray(raw) ? raw : [];
-    // Mark manual events with source, confidence, sourceWeight
+    // Mark manual events with source, confidence, sourceWeight.
+    // needsReview stays false unless the entry explicitly sets it to true.
     manualEvents = manualEvents.map(e => ({
       ...e,
       source: e.source || 'Manual',
       confidence: e.confidence || 'high',
-      needsReview: e.needsReview || false,
+      needsReview: e.needsReview === true,
       sourceWeight: 10,
       tags: e.tags || []
     }));
@@ -279,11 +280,19 @@ async function main() {
         healthEntry.error  = `Parser error: ${parseErr.message}`;
       }
 
-      // Filter to events within the lookahead window (or no date = needsReview)
-      const filtered = candidates.filter(c => {
-        if (!c.date) return true; // keep for review
-        return c.date >= today && c.date <= weekEnd;
-      });
+      // Filter to events within the lookahead window (or no date = needsReview),
+      // then force needsReview = true for any low-confidence or undated candidate
+      // regardless of what the parser returned. This is the fix that makes the
+      // Needs Review summary count match the badges on the cards.
+      const filtered = candidates
+        .filter(c => {
+          if (!c.date) return true; // keep for review
+          return c.date >= today && c.date <= weekEnd;
+        })
+        .map(c => ({
+          ...c,
+          needsReview: c.needsReview === true || c.confidence === 'low' || !c.date
+        }));
 
       console.log(`  Candidates: ${candidates.length} raw → ${filtered.length} in window`);
 
