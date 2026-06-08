@@ -10,6 +10,8 @@
   let activeFilter = 'all';
   let todayStr = '';
   let tomorrowStr = '';
+  let disabledSources = new Set();  // sources the user has toggled off
+  const STORAGE_KEY = 'bb_disabled_sources';
 
   // ─── DOM refs ─────────────────────────────────────────────────────────────
   const loadingEl   = document.getElementById('loading-state');
@@ -23,6 +25,8 @@
   const noEventsEl  = document.getElementById('no-events-state');
   const countBadgeEl = document.getElementById('event-count-badge');
   const sourceListEl = document.getElementById('source-health-list');
+  const sourceFilterCheckboxesEl = document.getElementById('source-filter-checkboxes');
+  const sourceFilterCountEl = document.getElementById('source-filter-count');
 
   // ─── Helpers ──────────────────────────────────────────────────────────────
 
@@ -74,6 +78,101 @@
     if (!startTime) return false;
     const [h] = startTime.split(':').map(Number);
     return h >= 17;
+  }
+
+  // ─── Source filter state ───────────────────────────────────────────────────
+
+  function loadDisabledSources() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const arr = JSON.parse(raw);
+        if (Array.isArray(arr)) disabledSources = new Set(arr);
+      }
+    } catch (_) { /* ignore */ }
+  }
+
+  function saveDisabledSources() {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...disabledSources]));
+    } catch (_) { /* ignore */ }
+  }
+
+  function getUniqueSourcesWithCounts(events) {
+    const counts = new Map();
+    for (const e of events) {
+      const s = e.source || 'Unknown';
+      counts.set(s, (counts.get(s) || 0) + 1);
+    }
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]); // by count desc
+  }
+
+  function applySourceFilter(events) {
+    if (disabledSources.size === 0) return events;
+    return events.filter(e => !disabledSources.has(e.source || 'Unknown'));
+  }
+
+  function renderSourceFilter() {
+    if (!sourceFilterCheckboxesEl) return;
+    const sources = getUniqueSourcesWithCounts(allEvents);
+
+    sourceFilterCheckboxesEl.innerHTML = sources.map(([name, count]) => {
+      const isOff = disabledSources.has(name);
+      return `
+        <label class="source-filter-item${isOff ? ' muted' : ''}">
+          <input type="checkbox" data-source="${escHtml(name)}" ${isOff ? '' : 'checked'} />
+          <span class="source-filter-label-text">${escHtml(name)}</span>
+          <span class="source-filter-item-count">${count}</span>
+        </label>
+      `;
+    }).join('');
+
+    updateSourceFilterSummary();
+  }
+
+  function updateSourceFilterSummary() {
+    if (!sourceFilterCountEl) return;
+    const unique = new Set(allEvents.map(e => e.source || 'Unknown'));
+    const total = unique.size;
+    // disabledSources may include names that aren't in current data (after re-scan); count only those still present
+    const activeOff = [...disabledSources].filter(n => unique.has(n)).length;
+    const active = total - activeOff;
+    if (activeOff === 0) {
+      sourceFilterCountEl.textContent = `All ${total} sources active`;
+      sourceFilterCountEl.classList.remove('active');
+    } else {
+      sourceFilterCountEl.textContent = `Filtering: ${active} of ${total} sources active`;
+      sourceFilterCountEl.classList.add('active');
+    }
+  }
+
+  function initSourceFilterControls() {
+    if (sourceFilterCheckboxesEl) {
+      sourceFilterCheckboxesEl.addEventListener('change', (e) => {
+        const cb = e.target.closest('input[type="checkbox"]');
+        if (!cb) return;
+        const name = cb.dataset.source;
+        if (!name) return;
+        if (cb.checked) disabledSources.delete(name);
+        else disabledSources.add(name);
+        saveDisabledSources();
+        renderSourceFilter();   // refresh visual muted state
+        renderEvents(allEvents);
+      });
+    }
+    document.getElementById('source-filter-select-all')?.addEventListener('click', () => {
+      disabledSources.clear();
+      saveDisabledSources();
+      renderSourceFilter();
+      renderEvents(allEvents);
+    });
+    document.getElementById('source-filter-select-none')?.addEventListener('click', () => {
+      const unique = new Set(allEvents.map(e => e.source || 'Unknown'));
+      disabledSources = new Set(unique);
+      saveDisabledSources();
+      renderSourceFilter();
+      renderEvents(allEvents);
+    });
   }
 
   // ─── Filter logic ──────────────────────────────────────────────────────────
@@ -245,8 +344,11 @@
   }
 
   function renderEvents(events) {
-    const sorted   = sortEvents(events);
-    const visible  = filterEvents(sorted, activeFilter);
+    const sorted = sortEvents(events);
+    // Apply source filter FIRST (deselected sources are completely hidden)
+    const sourceFiltered = applySourceFilter(sorted);
+    // Then apply the category/date filter (Today, Tonight, etc.)
+    const visible = filterEvents(sourceFiltered, activeFilter);
 
     countBadgeEl.textContent = visible.length;
 
@@ -342,7 +444,7 @@
   }
 
   function showError(msg) {
-    loadingEl.hidden   = false; // keep structure but hide spinner
+    loadingEl.hidden   = false;
     loadingEl.style.display = 'none';
     errorEl.hidden     = false;
     dashboardEl.hidden = true;
@@ -362,6 +464,8 @@
     todayStr    = getToday();
     tomorrowStr = addDaysToDate(todayStr, 1);
 
+    loadDisabledSources();   // restore saved checkbox state before render
+
     let data;
     try {
       const resp = await fetch('events.json?_=' + Date.now());
@@ -375,7 +479,6 @@
       return;
     }
 
-    // Validate shape
     if (!data || typeof data !== 'object' || !Array.isArray(data.events)) {
       showError('events.json is malformed. Run "npm run validate" to diagnose.');
       return;
@@ -386,6 +489,8 @@
     renderUpdatedAt(data.updatedAt);
     renderSummary(data.summary || {});
     renderSourceHealth(data.sourceHealth || []);
+    renderSourceFilter();
+    initSourceFilterControls();
     initFilters();
     renderEvents(allEvents);
 
