@@ -24,8 +24,16 @@
     "enabled": true
   },
   {
+    "name": "Explore Cabarrus Things To Do",
+    "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
+    "defaultDistanceMiles": 7,
+    "sourceWeight": 7,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
     "name": "Cabarrus Arena Events",
-    "url": "https://www.cabarrusarena.com/events",
+    "url": "https://www.cabarrusarena.com/events-tickets/",
     "defaultDistanceMiles": 8,
     "sourceWeight": 7,
     "audienceRelevance": "medium",
@@ -48,6 +56,14 @@
     "enabled": true
   },
   {
+    "name": "zMAX Dragway",
+    "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
+    "defaultDistanceMiles": 16,
+    "sourceWeight": 6,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
     "name": "Concord Mills Events",
     "url": "https://www.simon.com/mall/concord-mills/stream/events",
     "defaultDistanceMiles": 7,
@@ -57,11 +73,12 @@
   },
   {
     "name": "Gibson Mill",
-    "url": "https://www.gibsonmill.com/events",
+    "url": "https://www.gibsonmillnc.com/",
     "defaultDistanceMiles": 4,
     "sourceWeight": 7,
     "audienceRelevance": "medium-high",
-    "enabled": true
+    "enabled": true,
+    "_note": "Updated TLD from .com to nc.com after timeout"
   },
   {
     "name": "The Bank Food Hall",
@@ -77,6 +94,97 @@
     "defaultDistanceMiles": 4,
     "sourceWeight": 5,
     "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "High Branch Brewing",
+    "url": "https://www.highbranchbrewing.com/",
+    "defaultDistanceMiles": 5,
+    "sourceWeight": 5,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "City of Concord Parks and Recreation",
+    "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
+    "defaultDistanceMiles": 3,
+    "sourceWeight": 9,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "Cabarrus County Active Living and Parks",
+    "url": "https://www.cabarruscounty.us/Government/Departments/Active-Living-and-Parks",
+    "defaultDistanceMiles": 5,
+    "sourceWeight": 7,
+    "audienceRelevance": "high",
+    "enabled": true
+  },
+  {
+    "name": "Cabarrus Arts Council",
+    "url": "https://cabarrusartscouncil.org/events/",
+    "defaultDistanceMiles": 4,
+    "sourceWeight": 7,
+    "audienceRelevance": "medium-high",
+    "enabled": true
+  },
+  {
+    "name": "Cabarrus Chamber",
+    "url": "https://cabarrusncchamber.org/events/",
+    "defaultDistanceMiles": 4,
+    "sourceWeight": 6,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "Great Wolf Lodge Concord",
+    "url": "https://www.greatwolf.com/concord",
+    "defaultDistanceMiles": 7,
+    "sourceWeight": 7,
+    "audienceRelevance": "high",
+    "enabled": true,
+    "_note": "JS-heavy site, expect Partial status"
+  },
+  {
+    "name": "Eventbrite - Concord",
+    "url": "https://www.eventbrite.com/d/nc--concord/events/",
+    "defaultDistanceMiles": 5,
+    "sourceWeight": 5,
+    "audienceRelevance": "medium",
+    "enabled": true,
+    "_note": "JS-heavy; may return Partial"
+  },
+  {
+    "name": "Eventbrite - Kannapolis",
+    "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+    "defaultDistanceMiles": 8,
+    "sourceWeight": 5,
+    "audienceRelevance": "medium",
+    "enabled": true,
+    "_note": "JS-heavy; may return Partial"
+  },
+  {
+    "name": "Charlotte on the Cheap",
+    "url": "https://www.charlotteonthecheap.com/events/",
+    "defaultDistanceMiles": 22,
+    "sourceWeight": 4,
+    "audienceRelevance": "medium",
+    "enabled": true
+  },
+  {
+    "name": "Visit Lake Norman Events",
+    "url": "https://www.visitlakenorman.org/events/",
+    "defaultDistanceMiles": 22,
+    "sourceWeight": 4,
+    "audienceRelevance": "low",
+    "enabled": true
+  },
+  {
+    "name": "Charlottes Got A Lot",
+    "url": "https://www.charlottesgotalot.com/events",
+    "defaultDistanceMiles": 25,
+    "sourceWeight": 4,
+    "audienceRelevance": "low",
     "enabled": true
   }
 ]
