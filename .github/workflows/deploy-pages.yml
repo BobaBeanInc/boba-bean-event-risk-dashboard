@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows: ["Update Event Risk Data"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -17,6 +21,12 @@ concurrency:
 
 jobs:
   deploy:
+    # Only deploy when the parent workflow succeeded (or this is a direct push/dispatch).
+    if: >
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
