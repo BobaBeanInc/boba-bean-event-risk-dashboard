@@ -2,8 +2,9 @@ name: Update Event Risk Data
 
 on:
   schedule:
-    - cron: "7 13 * * *"   # 9 AM Eastern
-    - cron: "7 19 * * *"   # 3 PM Eastern
+    - cron: "7 9 * * *"   # 9 AM Eastern
+    - cron: "7 13 * * *"   # 1 PM Eastern
+    - cron: "7 21 * * *"   # 9 PM Eastern
   workflow_dispatch:        # Manual trigger from GitHub Actions tab
 
 permissions:
