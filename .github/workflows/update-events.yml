@@ -40,7 +40,19 @@ jobs:
           git add public/events.json
           if git diff --staged --quiet; then
             echo "No changes to events.json — nothing to commit."
-          else
-            git commit -m "chore: update event risk data"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update event risk data"
+          # Retry on race: pull --rebase then push, up to 3 attempts.
+          # Handles the case where another commit landed on main while
+          # this workflow was running.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected — pulling latest main and retrying..."
+            git pull --rebase origin main
+          done
+          echo "Push failed after 3 attempts. Manual intervention required."
+          exit 1
