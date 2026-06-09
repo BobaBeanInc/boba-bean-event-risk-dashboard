@@ -77,8 +77,7 @@
     "defaultDistanceMiles": 4,
     "sourceWeight": 7,
     "audienceRelevance": "medium-high",
-    "enabled": true,
-    "_note": "Updated TLD from .com to nc.com after timeout"
+    "enabled": true
   },
   {
     "name": "The Bank Food Hall",
@@ -113,14 +112,6 @@
     "enabled": true
   },
   {
-    "name": "Cabarrus County Active Living and Parks",
-    "url": "https://www.cabarruscounty.us/Government/Departments/Active-Living-and-Parks",
-    "defaultDistanceMiles": 5,
-    "sourceWeight": 7,
-    "audienceRelevance": "high",
-    "enabled": true
-  },
-  {
     "name": "Cabarrus Arts Council",
     "url": "https://cabarrusartscouncil.org/events/",
     "defaultDistanceMiles": 4,
@@ -142,8 +133,7 @@
     "defaultDistanceMiles": 7,
     "sourceWeight": 7,
     "audienceRelevance": "high",
-    "enabled": true,
-    "_note": "JS-heavy site, expect Partial status"
+    "enabled": true
   },
   {
     "name": "Eventbrite - Concord",
@@ -151,8 +141,7 @@
     "defaultDistanceMiles": 5,
     "sourceWeight": 5,
     "audienceRelevance": "medium",
-    "enabled": true,
-    "_note": "JS-heavy; may return Partial"
+    "enabled": true
   },
   {
     "name": "Eventbrite - Kannapolis",
@@ -160,8 +149,7 @@
     "defaultDistanceMiles": 8,
     "sourceWeight": 5,
     "audienceRelevance": "medium",
-    "enabled": true,
-    "_note": "JS-heavy; may return Partial"
+    "enabled": true
   },
   {
     "name": "Charlotte on the Cheap",
