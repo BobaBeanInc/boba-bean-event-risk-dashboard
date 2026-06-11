@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T12:52:54.451Z",
+  "updatedAt": "2026-06-11T17:00:28.996Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:35.660Z",
+      "lastChecked": "2026-06-11T17:00:16.216Z",
       "candidateCount": 2,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:36.092Z",
+      "lastChecked": "2026-06-11T17:00:16.970Z",
       "candidateCount": 5,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:38.658Z",
+      "lastChecked": "2026-06-11T17:00:19.541Z",
       "candidateCount": 6,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:39.151Z",
+      "lastChecked": "2026-06-11T17:00:20.128Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:39.441Z",
+      "lastChecked": "2026-06-11T17:00:20.275Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-06-11T12:52:40.184Z",
+      "lastChecked": "2026-06-11T17:00:20.591Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-06-11T12:52:41.196Z",
+      "lastChecked": "2026-06-11T17:00:20.859Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-06-11T12:52:41.343Z",
+      "lastChecked": "2026-06-11T17:00:20.981Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:41.760Z",
+      "lastChecked": "2026-06-11T17:00:21.216Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-06-11T12:52:42.771Z",
+      "lastChecked": "2026-06-11T17:00:21.829Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:42.812Z",
+      "lastChecked": "2026-06-11T17:00:21.922Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:43.452Z",
+      "lastChecked": "2026-06-11T17:00:23.202Z",
       "candidateCount": 30,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:44.502Z",
+      "lastChecked": "2026-06-11T17:00:24.934Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-06-11T12:52:44.778Z",
+      "lastChecked": "2026-06-11T17:00:25.313Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:44.883Z",
+      "lastChecked": "2026-06-11T17:00:25.356Z",
       "candidateCount": 4,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:45.996Z",
+      "lastChecked": "2026-06-11T17:00:26.878Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,31 +143,31 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:46.154Z",
+      "lastChecked": "2026-06-11T17:00:27.199Z",
       "candidateCount": 55,
       "error": null
     },
     {
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
-      "status": "Partial",
-      "lastChecked": "2026-06-11T12:52:46.402Z",
+      "status": "Failed",
+      "lastChecked": "2026-06-11T17:00:27.493Z",
       "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
     {
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "status": "Partial",
-      "lastChecked": "2026-06-11T12:52:48.178Z",
+      "status": "Failed",
+      "lastChecked": "2026-06-11T17:00:27.639Z",
       "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
     {
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:50.595Z",
+      "lastChecked": "2026-06-11T17:00:27.654Z",
       "candidateCount": 68,
       "error": null
     },
@@ -175,17 +175,17 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-11T12:52:53.272Z",
+      "lastChecked": "2026-06-11T17:00:28.202Z",
       "candidateCount": 5,
       "error": null
     },
     {
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
-      "status": "Partial",
-      "lastChecked": "2026-06-11T12:52:53.757Z",
+      "status": "Failed",
+      "lastChecked": "2026-06-11T17:00:28.728Z",
       "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
   ],
   "events": [
@@ -1493,21 +1493,21 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "a0f9b71a3999",
-      "title": "Can’t-Miss 4th of July Celebrations in Cabarrus County, NC",
+      "id": "60681f8abd0c",
+      "title": "Family-Friendly Restaurants in Cabarrus County",
       "date": null,
       "startTime": null,
       "endTime": null,
       "venue": "Explore Cabarrus Things To Do",
       "city": "Concord",
       "distanceMiles": 7,
-      "description": "Spend a few days celebrating our nation’s independence with fireworks and tons of family-friendly fun at these special events.",
+      "description": "Dining out with the kids is a breeze at these Cabarrus County restaurants that offer fun and food for all ages.",
       "source": "Explore Cabarrus Things To Do",
       "sourceUrl": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "eventUrl": "",
       "tags": [
         "family",
-        "fireworks"
+        "kids"
       ],
       "confidence": "low",
       "needsReview": true,
