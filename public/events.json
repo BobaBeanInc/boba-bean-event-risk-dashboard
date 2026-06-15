@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T15:23:42.973Z",
+  "updatedAt": "2026-06-15T18:01:34.198Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Moderate",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:28.412Z",
+      "lastChecked": "2026-06-15T18:01:11.199Z",
       "candidateCount": 4,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:29.111Z",
+      "lastChecked": "2026-06-15T18:01:11.587Z",
       "candidateCount": 4,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:31.267Z",
+      "lastChecked": "2026-06-15T18:01:14.515Z",
       "candidateCount": 3,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:31.592Z",
+      "lastChecked": "2026-06-15T18:01:15.149Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:31.711Z",
+      "lastChecked": "2026-06-15T18:01:15.331Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-06-15T15:23:32.044Z",
+      "lastChecked": "2026-06-15T18:01:16.047Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-06-15T15:23:32.744Z",
+      "lastChecked": "2026-06-15T18:01:21.797Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-06-15T15:23:32.909Z",
+      "lastChecked": "2026-06-15T18:01:21.939Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:33.160Z",
+      "lastChecked": "2026-06-15T18:01:22.368Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-06-15T15:23:33.856Z",
+      "lastChecked": "2026-06-15T18:01:23.753Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:33.981Z",
+      "lastChecked": "2026-06-15T18:01:23.810Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:34.392Z",
+      "lastChecked": "2026-06-15T18:01:24.328Z",
       "candidateCount": 31,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:36.068Z",
+      "lastChecked": "2026-06-15T18:01:25.516Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-06-15T15:23:36.366Z",
+      "lastChecked": "2026-06-15T18:01:25.749Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:36.439Z",
+      "lastChecked": "2026-06-15T18:01:26.030Z",
       "candidateCount": 5,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:37.928Z",
+      "lastChecked": "2026-06-15T18:01:27.300Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:38.162Z",
+      "lastChecked": "2026-06-15T18:01:27.579Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,23 +151,23 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:38.491Z",
-      "candidateCount": 11,
+      "lastChecked": "2026-06-15T18:01:27.873Z",
+      "candidateCount": 8,
       "error": null
     },
     {
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:39.954Z",
-      "candidateCount": 13,
+      "lastChecked": "2026-06-15T18:01:30.006Z",
+      "candidateCount": 8,
       "error": null
     },
     {
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:41.479Z",
+      "lastChecked": "2026-06-15T18:01:32.410Z",
       "candidateCount": 37,
       "error": null
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-15T15:23:41.877Z",
+      "lastChecked": "2026-06-15T18:01:33.084Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Partial",
-      "lastChecked": "2026-06-15T15:23:42.378Z",
+      "lastChecked": "2026-06-15T18:01:33.492Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     }
@@ -403,29 +403,6 @@
       "suggestedAction": "Post a 3–5 PM pre-event drink reminder. Run an after-event treat promo from 8–9 PM."
     },
     {
-      "id": "00e3c95c821a",
-      "title": "MOHCD Program Orientation with MEDA  6/18/2026",
-      "date": "2026-06-18",
-      "startTime": "18:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Almost fullMOHCD Program Orientation with MEDA 6/18/2026Thursday • 6:00 PM PDTCheck ticket price on eventSave this event: MOHCD Program Orientation with MEDA 6/18/2026Share this event: MOHCD Program Orientation with MEDA 6/18/2026",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/mohcd-program-orientation-with-meda-6182026-tickets-1783172349499?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 5,
-      "score": 53,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away).",
-      "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
-    },
-    {
       "id": "8cbe5c19535a",
       "title": "Jun 19",
       "date": "2026-06-19",
@@ -518,31 +495,6 @@
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
     },
     {
-      "id": "00e2ca1c8838",
-      "title": "Queen City Juneteenth Cookout & Day Party",
-      "date": "2026-06-21",
-      "startTime": "12:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Almost fullSun, Jun 21 • 12:00 PM Blush CLTCheck ticket price on eventSave this event: Queen City Juneteenth Cookout & Day PartyShare this event: Queen City Juneteenth Cookout & Day Party",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/queen-city-juneteenth-cookout-day-party-tickets-1987347381516?aff=ebdssbcitybrowse",
-      "tags": [
-        "teen"
-      ],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 5,
-      "score": 28,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Location: moderate distance (8 miles away). Draws teens and students who may otherwise stop in.",
-      "suggestedAction": "Monitor foot traffic. Consider a mild social post about the event as local context."
-    },
-    {
       "id": "295b3b5a2ff3",
       "title": "Father’s Day Brunch at The Strain",
       "date": "2026-06-21",
@@ -612,29 +564,6 @@
       "riskLabel": "Moderate",
       "impactType": "Diversion Risk",
       "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
-      "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
-    },
-    {
-      "id": "d0be0208fa83",
-      "title": "Women's Health - Perimenopause",
-      "date": "2026-06-22",
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Going fastMon, Jun 22 • 7:00 PM GMT+1Check ticket price on eventSave this event: Women's Health - PerimenopauseShare this event: Women's Health - Perimenopause",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.ie/e/womens-health-perimenopause-tickets-1985906147747?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 5,
-      "score": 53,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away).",
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
     },
     {
@@ -1259,6 +1188,32 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
+      "id": "e293616e4179",
+      "title": "Mid-Month Entertainment at Wired Coffee",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Sales end soonTomorrow • 7:30 PMWiredCoffeeEspressCheck ticket price on eventSave this event: Mid-Month Entertainment at Wired CoffeeShare this event: Mid-Month Entertainment at Wired Coffee",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/mid-month-entertainment-at-wired-coffee-tickets-1991528335863?aff=ebdssbcitybrowse",
+      "tags": [
+        "coffee",
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 39,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "3d72da4acded",
       "title": "Dance With Me: Line Dancing -- beginning lesson and open dance",
       "date": null,
@@ -1354,29 +1309,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "29e2cc1e9301",
-      "title": "Prevent in Education - Early Years Foundation Stage Training",
-      "date": null,
-      "startTime": "18:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Almost fullTomorrow • 6:00 PM GMT+1Check ticket price on eventSave this event: Prevent in Education - Early Years Foundation Stage TrainingShare this event: Prevent in Education - Early Years Foundation Stage Training",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.co.uk/e/prevent-in-education-early-years-foundation-stage-training-tickets-1535652510999?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 33,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "a1864504ed18",
       "title": "R&B Friday's",
       "date": null,
@@ -1448,6 +1380,32 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "0f21c5a956ce",
+      "title": "2026  Spartina 449 Warehouse Sale",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Concord",
+      "city": "Concord",
+      "distanceMiles": 5,
+      "description": "Going fast2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.6k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
+      "source": "Eventbrite - Concord",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
+      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
+      "tags": [
+        "school",
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 25,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "69b8ab9cc5f1",
       "title": "Greater Kings Halftime Huddle Men's Conference",
       "date": null,
@@ -1472,29 +1430,6 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "d3b36ae18b82",
-      "title": "Prevent in Education - Early Years Foundation Stage Training",
-      "date": null,
-      "startTime": "18:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Almost fullTomorrow • 6:00 PM GMT+1Check ticket price on eventSave this event: Prevent in Education - Early Years Foundation Stage TrainingShare this event: Prevent in Education - Early Years Foundation Stage Training",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.co.uk/e/prevent-in-education-early-years-foundation-stage-training-tickets-1535652510999?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 25,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
       "id": "755a28442b8d",
@@ -1567,6 +1502,32 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "5d49b126544c",
+      "title": "2026  Spartina 449 Warehouse Sale",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Going fast2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.6k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
+      "tags": [
+        "school",
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 17,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "cad3784d019d",
@@ -1992,31 +1953,6 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "79f1f0bbd231",
-      "title": "How to Structure a Commercially Successful Novel",
-      "date": null,
-      "startTime": "14:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Sales end soonWednesday • 2:00 PM EDTCheck ticket price on eventSave this event: How to Structure a Commercially Successful NovelShare this event: How to Structure a Commercially Successful Novel",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.ca/e/how-to-structure-a-commercially-successful-novel-tickets-1990322638590?aff=ebdssbcitybrowse",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 7,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
@@ -2942,56 +2878,6 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "6fbe618468ce",
-      "title": "Charlotte AI Summit 2026",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Sales end soonThursday • 8:30 AMCentral Piedmont Parr CenterFrom $0.00Charlotte AI Summit14 followersPromotedSave this event: Charlotte AI Summit 2026Share this event: Charlotte AI Summit 2026Promoted event actions",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/charlotte-ai-summit-2026-tickets-1991524577622?aff=ebdssbcitybrowse",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": -1,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "3698d11f564d",
-      "title": "How to Structure a Commercially Successful Novel",
-      "date": null,
-      "startTime": "14:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Sales end soonWednesday • 2:00 PM EDTCheck ticket price on eventSave this event: How to Structure a Commercially Successful NovelShare this event: How to Structure a Commercially Successful Novel",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.ca/e/how-to-structure-a-commercially-successful-novel-tickets-1990322638590?aff=ebdssbcitybrowse",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": -1,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "8b10af90861c",
@@ -4197,29 +4083,6 @@
       "source": "Eventbrite - Kannapolis",
       "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "eventUrl": "https://www.eventbrite.com/e/josh-turner-world-vision-volunteers-kannapolis-nc-tickets-1985993043655?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": -10,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "b4acceebc7d4",
-      "title": "Auntie Invitational",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Almost fullSaturday • 11:30 AM12501 Commerce Station DrCheck ticket price on eventSave this event: Auntie InvitationalShare this event: Auntie Invitational",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/auntie-invitational-tickets-1986918712355?aff=ebdssbcitybrowse",
       "tags": [],
       "confidence": "low",
       "needsReview": true,
