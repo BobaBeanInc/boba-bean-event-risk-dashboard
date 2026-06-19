@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T16:12:41.370Z",
+  "updatedAt": "2026-06-19T22:11:48.137Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:28.913Z",
+      "lastChecked": "2026-06-19T22:11:32.336Z",
       "candidateCount": 4,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:29.265Z",
+      "lastChecked": "2026-06-19T22:11:33.151Z",
       "candidateCount": 4,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:31.835Z",
+      "lastChecked": "2026-06-19T22:11:35.462Z",
       "candidateCount": 3,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:32.121Z",
+      "lastChecked": "2026-06-19T22:11:35.728Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:32.278Z",
+      "lastChecked": "2026-06-19T22:11:35.823Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-06-19T16:12:32.923Z",
+      "lastChecked": "2026-06-19T22:11:36.008Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-06-19T16:12:34.589Z",
+      "lastChecked": "2026-06-19T22:11:36.708Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:34.693Z",
+      "lastChecked": "2026-06-19T22:11:36.796Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:35.088Z",
+      "lastChecked": "2026-06-19T22:11:37.191Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:36.295Z",
+      "lastChecked": "2026-06-19T22:11:40.308Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:36.345Z",
+      "lastChecked": "2026-06-19T22:11:40.350Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:36.847Z",
+      "lastChecked": "2026-06-19T22:11:40.734Z",
       "candidateCount": 30,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:38.022Z",
+      "lastChecked": "2026-06-19T22:11:42.376Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:38.223Z",
+      "lastChecked": "2026-06-19T22:11:42.711Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:38.245Z",
+      "lastChecked": "2026-06-19T22:11:42.749Z",
       "candidateCount": 3,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:39.285Z",
+      "lastChecked": "2026-06-19T22:11:44.431Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:39.431Z",
+      "lastChecked": "2026-06-19T22:11:44.759Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:39.538Z",
+      "lastChecked": "2026-06-19T22:11:44.906Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:39.577Z",
+      "lastChecked": "2026-06-19T22:11:45.103Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,15 +167,15 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:39.584Z",
-      "candidateCount": 76,
+      "lastChecked": "2026-06-19T22:11:45.118Z",
+      "candidateCount": 78,
       "error": null
     },
     {
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-19T16:12:40.238Z",
+      "lastChecked": "2026-06-19T22:11:47.504Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-06-19T16:12:40.980Z",
+      "lastChecked": "2026-06-19T22:11:47.879Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
@@ -1581,6 +1581,32 @@
       "riskLabel": "Moderate",
       "impactType": "Diversion Risk",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "274f3c22aaca",
+      "title": "Free Melona Ice Cream Bar Samples at Super G Mart",
+      "date": null,
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "venue": "Charlotte on the Cheap",
+      "city": "Concord",
+      "distanceMiles": 22,
+      "description": "12:00 pm to 5:00 pm | FREE | Super G Mart Independence",
+      "source": "Charlotte on the Cheap",
+      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
+      "eventUrl": "https://www.charlotteonthecheap.com/super-g-mart-melona/",
+      "tags": [
+        "free",
+        "dessert"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 4,
+      "score": 49,
+      "riskLabel": "Moderate",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "Details need manual review before acting on this. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -4672,6 +4698,29 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (9 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "d4934141263d",
+      "title": "PrimoHoagies: 50% off Primo Size American Hoagies",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Charlotte on the Cheap",
+      "city": "Concord",
+      "distanceMiles": 22,
+      "description": "All Day | Discounted | PrimoHoagies, participating locations",
+      "source": "Charlotte on the Cheap",
+      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
+      "eventUrl": "https://www.charlotteonthecheap.com/primohoagies-world-cup-deal/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 4,
+      "score": -16,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: farther away (22 miles). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
