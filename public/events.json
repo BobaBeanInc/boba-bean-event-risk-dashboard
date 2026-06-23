@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:05:20.757Z",
+  "updatedAt": "2026-06-23T22:20:34.864Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Moderate",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:07.374Z",
+      "lastChecked": "2026-06-23T22:20:23.182Z",
       "candidateCount": 3,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:07.744Z",
+      "lastChecked": "2026-06-23T22:20:23.781Z",
       "candidateCount": 2,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:10.143Z",
+      "lastChecked": "2026-06-23T22:20:26.208Z",
       "candidateCount": 1,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:10.468Z",
+      "lastChecked": "2026-06-23T22:20:26.584Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:11.202Z",
+      "lastChecked": "2026-06-23T22:20:26.710Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-06-23T16:05:11.507Z",
+      "lastChecked": "2026-06-23T22:20:27.420Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-06-23T16:05:13.590Z",
+      "lastChecked": "2026-06-23T22:20:27.772Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:14.219Z",
+      "lastChecked": "2026-06-23T22:20:27.996Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:14.625Z",
+      "lastChecked": "2026-06-23T22:20:28.411Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:15.527Z",
+      "lastChecked": "2026-06-23T22:20:29.181Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:15.598Z",
+      "lastChecked": "2026-06-23T22:20:29.251Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:16.127Z",
+      "lastChecked": "2026-06-23T22:20:29.698Z",
       "candidateCount": 31,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:17.395Z",
+      "lastChecked": "2026-06-23T22:20:31.330Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:17.669Z",
+      "lastChecked": "2026-06-23T22:20:31.620Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:17.696Z",
+      "lastChecked": "2026-06-23T22:20:31.694Z",
       "candidateCount": 3,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:18.955Z",
+      "lastChecked": "2026-06-23T22:20:33.115Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:19.065Z",
+      "lastChecked": "2026-06-23T22:20:33.386Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:19.237Z",
+      "lastChecked": "2026-06-23T22:20:33.614Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:19.276Z",
+      "lastChecked": "2026-06-23T22:20:33.770Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:19.284Z",
+      "lastChecked": "2026-06-23T22:20:33.786Z",
       "candidateCount": 52,
       "error": null
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-06-23T16:05:20.197Z",
+      "lastChecked": "2026-06-23T22:20:34.167Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-06-23T16:05:20.365Z",
+      "lastChecked": "2026-06-23T22:20:34.534Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
