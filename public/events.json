@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T15:20:57.340Z",
+  "updatedAt": "2026-07-03T22:13:02.864Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:24.452Z",
+      "lastChecked": "2026-07-03T22:12:48.156Z",
       "candidateCount": 8,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:25.086Z",
+      "lastChecked": "2026-07-03T22:12:48.504Z",
       "candidateCount": 2,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:27.219Z",
+      "lastChecked": "2026-07-03T22:12:50.777Z",
       "candidateCount": 3,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:27.546Z",
+      "lastChecked": "2026-07-03T22:12:51.008Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:27.669Z",
+      "lastChecked": "2026-07-03T22:12:51.160Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-07-03T15:20:27.988Z",
+      "lastChecked": "2026-07-03T22:12:51.423Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-07-03T15:20:29.979Z",
+      "lastChecked": "2026-07-03T22:12:53.137Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,15 +71,15 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-07-03T15:20:30.230Z",
+      "lastChecked": "2026-07-03T22:12:53.224Z",
       "candidateCount": 0,
-      "error": "Request timed out after 15000ms"
+      "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
     {
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:45.235Z",
+      "lastChecked": "2026-07-03T22:12:53.617Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-07-03T15:20:45.837Z",
+      "lastChecked": "2026-07-03T22:12:55.078Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:45.957Z",
+      "lastChecked": "2026-07-03T22:12:55.104Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:47.039Z",
+      "lastChecked": "2026-07-03T22:12:55.604Z",
       "candidateCount": 30,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:49.876Z",
+      "lastChecked": "2026-07-03T22:12:56.849Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-07-03T15:20:50.169Z",
+      "lastChecked": "2026-07-03T22:12:56.956Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:50.238Z",
+      "lastChecked": "2026-07-03T22:12:56.975Z",
       "candidateCount": 10,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:51.818Z",
+      "lastChecked": "2026-07-03T22:12:58.082Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:52.044Z",
+      "lastChecked": "2026-07-03T22:12:58.193Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,31 +151,31 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:52.254Z",
-      "candidateCount": 4,
+      "lastChecked": "2026-07-03T22:12:58.289Z",
+      "candidateCount": 7,
       "error": null
     },
     {
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:54.055Z",
-      "candidateCount": 3,
+      "lastChecked": "2026-07-03T22:12:59.959Z",
+      "candidateCount": 7,
       "error": null
     },
     {
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:55.814Z",
-      "candidateCount": 81,
+      "lastChecked": "2026-07-03T22:13:01.472Z",
+      "candidateCount": 79,
       "error": null
     },
     {
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-03T15:20:56.452Z",
+      "lastChecked": "2026-07-03T22:13:02.135Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Partial",
-      "lastChecked": "2026-07-03T15:20:56.798Z",
+      "lastChecked": "2026-07-03T22:13:02.298Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     }
@@ -665,29 +665,6 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
-      "id": "d8d2ad05fba5",
-      "title": "KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
-      "date": "2026-07-09",
-      "startTime": "09:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Thu, Jul 9 • 9:00 AM + 1 more6001 Gateway Center DrCheck ticket price on eventSave this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)Share this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/kwp-wealth-intensive-stop-earning-start-building-summer-edition-tickets-1991383951004?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 5,
-      "score": 10,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Location: moderate distance (8 miles away).",
-      "suggestedAction": "Minimal impact expected. No action required."
-    },
-    {
       "id": "8f9496c33e41",
       "title": "Jul 09",
       "date": "2026-07-09",
@@ -759,18 +736,18 @@
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
     },
     {
-      "id": "455db799d0bc",
-      "title": "Anger Management 1-Day Workshop | Concord, NC",
+      "id": "fba33598d45f",
+      "title": "Motivating People 1-Day Workshop | Concord, NC",
       "date": "2026-07-10",
       "startTime": "09:00",
       "endTime": null,
       "venue": "Eventbrite - Concord",
       "city": "Concord",
       "distanceMiles": 5,
-      "description": "Fri, Jul 10 • 9:00 AM + 1 moreFor venue details reach us at info@learnerring.comCheck ticket price on eventSave this event: Anger Management 1-Day Workshop | Concord, NCShare this event: Anger Management 1-Day Workshop | Concord, NC",
+      "description": "Fri, Jul 10 • 9:00 AM + 5 moreFor venue details reach us at info@learnerring.comCheck ticket price on eventSave this event: Motivating People 1-Day Workshop | Concord, NCShare this event: Motivating People 1-Day Workshop | Concord, NC",
       "source": "Eventbrite - Concord",
       "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/anger-management-1-day-workshop-concord-nc-tickets-1813359259359?aff=ebdssbcitybrowse",
+      "eventUrl": "https://www.eventbrite.com/e/motivating-people-1-day-workshop-concord-nc-tickets-1991704680314?aff=ebdssbcitybrowse",
       "tags": [],
       "confidence": "medium",
       "needsReview": false,
@@ -2203,6 +2180,31 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "f96f73c8ba9e",
+      "title": "MOR+ Music Bingo @ Southern Strain Brewing - Concord",
+      "date": null,
+      "startTime": "18:30",
+      "endTime": null,
+      "venue": "Eventbrite - Concord",
+      "city": "Concord",
+      "distanceMiles": 5,
+      "description": "Wednesday • 6:30 PM + 28 more165 Brumley Avenue NE, Suite 3001 Concord, NC, US 28025Check ticket price on eventSave this event: MOR+ Music Bingo @ Southern Strain Brewing - ConcordShare this event: MOR+ Music Bingo @ Southern Strain Brewing - Concord",
+      "source": "Eventbrite - Concord",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
+      "eventUrl": "https://www.eventbrite.com/e/mor-music-bingo-southern-strain-brewing-concord-tickets-760803643177?aff=ebdssbcitybrowse",
+      "tags": [
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 42,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "3fc49c0fb6d0",
       "title": "Live Music: DJ Stampede Beats",
       "date": null,
@@ -2335,6 +2337,54 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
+      "id": "f4a29dac7405",
+      "title": "Pipes, Peers and Prevention - Americas launch",
+      "date": null,
+      "startTime": "17:00",
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Sales end soonTuesday • 5:00 PM GMT+1Check ticket price on eventSave this event: Pipes, Peers and Prevention - Americas launchShare this event: Pipes, Peers and Prevention - Americas launch",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.co.uk/e/pipes-peers-and-prevention-americas-launch-tickets-1992017720626?aff=ebdssbcitybrowse",
+      "tags": [
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 34,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
+      "id": "a1864504ed18",
+      "title": "R&B Friday's",
+      "date": null,
+      "startTime": "19:00",
+      "endTime": null,
+      "venue": "Eventbrite - Concord",
+      "city": "Concord",
+      "distanceMiles": 5,
+      "description": "Today • 7:00 PM + 52 moreDave & Buster's ConcordCheck ticket price on eventSave this event: R&B Friday'sShare this event: R&B Friday's",
+      "source": "Eventbrite - Concord",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
+      "eventUrl": "https://www.eventbrite.com/e/rb-fridays-tickets-1987616808379?aff=ebdssbcitybrowse",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 33,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
       "id": "d6c2fd6c9f34",
       "title": "Live Music: Braden Harwood",
       "date": null,
@@ -2413,6 +2463,32 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: ends before the evening window. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "0f21c5a956ce",
+      "title": "2026  Spartina 449 Warehouse Sale",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Concord",
+      "city": "Concord",
+      "distanceMiles": 5,
+      "description": "Almost full2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.7k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
+      "source": "Eventbrite - Concord",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
+      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
+      "tags": [
+        "school",
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 25,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "4fd0db10b46b",
@@ -2545,29 +2621,29 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
-      "id": "c7e6d2852c87",
-      "title": "Hopfly Bike and Brew",
+      "id": "5d49b126544c",
+      "title": "2026  Spartina 449 Warehouse Sale",
       "date": null,
-      "startTime": "13:30",
+      "startTime": null,
       "endTime": null,
-      "venue": "Charlotte on the Cheap",
+      "venue": "Eventbrite - Kannapolis",
       "city": "Concord",
-      "distanceMiles": 22,
-      "description": "1:30 pm | FREE | HopFly Brewing Company",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/hop-fly-brewing/",
+      "distanceMiles": 8,
+      "description": "Almost full2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.7k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
       "tags": [
-        "free",
-        "brewery"
+        "school",
+        "beer"
       ],
       "confidence": "low",
       "needsReview": true,
-      "sourceWeight": 4,
-      "score": 21,
+      "sourceWeight": 5,
+      "score": 17,
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
@@ -2768,6 +2844,56 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "f1f4ad60cafe",
+      "title": "July 4th Celebration at Torance House and Cedar Grove",
+      "date": null,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "venue": "Charlotte on the Cheap",
+      "city": "Concord",
+      "distanceMiles": 22,
+      "description": "2:00 pm to 5:00 pm | FREE | Cedar Grove (Hugh Torance historic site) Huntersville",
+      "source": "Charlotte on the Cheap",
+      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
+      "eventUrl": "https://www.charlotteonthecheap.com/july-4th-torance-house/",
+      "tags": [
+        "free"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 4,
+      "score": 17,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "49ddd02755a0",
+      "title": "Queen City 4th of July Fest & Day Party",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Almost fullTomorrow • 1:00 PMBlush CLTCheck ticket price on eventSave this event: Queen City 4th of July Fest & Day PartyShare this event: Queen City 4th of July Fest & Day Party",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/queen-city-4th-of-july-fest-day-party-tickets-1991943375257?aff=ebdssbcitybrowse",
+      "tags": [
+        "festival"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 10,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -3237,6 +3363,31 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "2a2d4843b55b",
+      "title": "Modern Speed Dating + Matchmaking | 20s & 30s | Hetero Matches",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Almost fullTuesday • 6:30 PMPlatform SportsCheck ticket price on eventSave this event: Modern Speed Dating + Matchmaking | 20s & 30s | Hetero MatchesShare this event: Modern Speed Dating + Matchmaking | 20s & 30s | Hetero Matches",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/modern-speed-dating-matchmaking-20s-30s-hetero-matches-tickets-1992389511663?aff=ebdssbcitybrowse",
+      "tags": [
+        "sports"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -4045,6 +4196,31 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "35d1c2255ece",
+      "title": "SVPG Product Masterclass",
+      "date": null,
+      "startTime": "08:00",
+      "endTime": null,
+      "venue": "Eventbrite - Kannapolis",
+      "city": "Concord",
+      "distanceMiles": 8,
+      "description": "Sales end soonTuesday • 8:00 AM PDTCheck ticket price on eventSave this event: SVPG Product MasterclassShare this event: SVPG Product Masterclass",
+      "source": "Eventbrite - Kannapolis",
+      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
+      "eventUrl": "https://www.eventbrite.com/e/svpg-product-masterclass-tickets-1989265821622?aff=ebdssbcitybrowse",
+      "tags": [
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": -1,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "0f9fad37c9a3",
       "title": "Event Series",
       "date": null,
@@ -4643,31 +4819,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "b02670378299",
-      "title": "Visit Eastern Cabarrus Historical Society Museum",
-      "date": null,
-      "startTime": "10:00",
-      "endTime": "15:00",
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "10:00 am to 3:00 pm | FREE | Eastern Cabarrus Historical Society & Museum",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/eastern-cabarrus-historical-society-museum/",
-      "tags": [
-        "free"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": -3,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: ends before the evening window. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "c007cf3e6ebd",
       "title": "July 4th Music in the Courtyard at Optimist Hall",
       "date": null,
@@ -5109,18 +5260,18 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "6bff34b35ebf",
-      "title": "OrgDev Live Conference 2026",
+      "id": "812dcf7dcb72",
+      "title": "KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
       "date": null,
-      "startTime": "09:30",
+      "startTime": "09:00",
       "endTime": null,
       "venue": "Eventbrite - Kannapolis",
       "city": "Concord",
       "distanceMiles": 8,
-      "description": "Almost fullTuesday • 9:30 AM GMT+1Check ticket price on eventSave this event: OrgDev Live Conference 2026Share this event: OrgDev Live Conference 2026",
+      "description": "Thursday • 9:00 AM + 1 more6001 Gateway Center DrCheck ticket price on eventSave this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)Share this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
       "source": "Eventbrite - Kannapolis",
       "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.co.uk/e/orgdev-live-conference-2026-tickets-1986303979673?aff=ebdssbcitybrowse",
+      "eventUrl": "https://www.eventbrite.com/e/kwp-wealth-intensive-stop-earning-start-building-summer-edition-tickets-1991383951004?aff=ebdssbcitybrowse",
       "tags": [],
       "confidence": "low",
       "needsReview": true,
@@ -5291,31 +5442,6 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: farther away (22 miles). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "ee21dc4e12e5",
-      "title": "Saturday Morning Yoga",
-      "date": null,
-      "startTime": "10:00",
-      "endTime": "11:00",
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "10:00 am to 11:00 am | $5.00 | Lenny Boy Brewing Co.",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/lenny-boy-brewing/",
-      "tags": [
-        "brewery"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": -27,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: ends before the evening window. Location: farther away (22 miles). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     }
   ]
 }
