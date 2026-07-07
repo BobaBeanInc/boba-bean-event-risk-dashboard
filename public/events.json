@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T12:06:58.887Z",
+  "updatedAt": "2026-07-07T15:48:11.729Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "High",
@@ -8,14 +8,14 @@
     "weekHighestRiskDay": "2026-07-08",
     "highRiskCount": 3,
     "opportunityCount": 0,
-    "needsReviewCount": 9
+    "needsReviewCount": 8
   },
   "sourceHealth": [
     {
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:45.294Z",
+      "lastChecked": "2026-07-07T15:48:01.958Z",
       "candidateCount": 8,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:46.136Z",
+      "lastChecked": "2026-07-07T15:48:02.817Z",
       "candidateCount": 4,
       "error": null
     },
@@ -31,15 +31,15 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:48.124Z",
-      "candidateCount": 1,
+      "lastChecked": "2026-07-07T15:48:04.756Z",
+      "candidateCount": 0,
       "error": null
     },
     {
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:48.431Z",
+      "lastChecked": "2026-07-07T15:48:05.045Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:48.508Z",
+      "lastChecked": "2026-07-07T15:48:05.132Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-07-07T12:06:48.806Z",
+      "lastChecked": "2026-07-07T15:48:05.428Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-07-07T12:06:48.999Z",
+      "lastChecked": "2026-07-07T15:48:05.595Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-07-07T12:06:49.136Z",
+      "lastChecked": "2026-07-07T15:48:05.720Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:49.528Z",
+      "lastChecked": "2026-07-07T15:48:05.935Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-07-07T12:06:49.886Z",
+      "lastChecked": "2026-07-07T15:48:06.405Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:49.969Z",
+      "lastChecked": "2026-07-07T15:48:06.444Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:50.621Z",
+      "lastChecked": "2026-07-07T15:48:06.853Z",
       "candidateCount": 20,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:52.553Z",
+      "lastChecked": "2026-07-07T15:48:08.690Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-07-07T12:06:52.894Z",
+      "lastChecked": "2026-07-07T15:48:08.959Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:52.919Z",
+      "lastChecked": "2026-07-07T15:48:08.991Z",
       "candidateCount": 12,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:54.736Z",
+      "lastChecked": "2026-07-07T15:48:10.477Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,31 +143,31 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:54.865Z",
+      "lastChecked": "2026-07-07T15:48:10.666Z",
       "candidateCount": 1,
       "error": null
     },
     {
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
-      "status": "OK",
-      "lastChecked": "2026-07-07T12:06:55.030Z",
-      "candidateCount": 10,
-      "error": null
+      "status": "Failed",
+      "lastChecked": "2026-07-07T15:48:10.820Z",
+      "candidateCount": 0,
+      "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
     {
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "status": "OK",
-      "lastChecked": "2026-07-07T12:06:56.445Z",
-      "candidateCount": 5,
-      "error": null
+      "status": "Failed",
+      "lastChecked": "2026-07-07T15:48:10.958Z",
+      "candidateCount": 0,
+      "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
     {
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:57.831Z",
+      "lastChecked": "2026-07-07T15:48:10.967Z",
       "candidateCount": 55,
       "error": null
     },
@@ -175,17 +175,17 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-07T12:06:58.211Z",
+      "lastChecked": "2026-07-07T15:48:11.305Z",
       "candidateCount": 5,
       "error": null
     },
     {
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
-      "status": "Partial",
-      "lastChecked": "2026-07-07T12:06:58.490Z",
+      "status": "Failed",
+      "lastChecked": "2026-07-07T15:48:11.554Z",
       "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
   ],
   "events": [
@@ -540,31 +540,6 @@
       "impactType": "Mixed",
       "whyItMatters": "Location: nearby (4 miles away). Draws teens and students who may otherwise stop in.",
       "suggestedAction": "Post a 3–5 PM pre-event drink reminder to catch traffic before the event starts."
-    },
-    {
-      "id": "9d66361967b9",
-      "title": "Christmas in July in Downtown Concord",
-      "date": "2026-07-11",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Jul 11, 2026 Enjoy a day of holiday cheer in the middle of summer! Celebrate Christmas in July in downtown Concord! From festive activities, shopping and...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "festival"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 21,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
       "id": "720a2c8f29b5",
@@ -1771,56 +1746,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "806ef689e693",
-      "title": "Coffee + Conversations",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Going fastFriday • 6:00 PMThe Holy Grind Coffee House of ConcordCheck ticket price on eventSave this event: Coffee + ConversationsShare this event: Coffee + Conversations",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/coffee-conversations-tickets-1993024328417?aff=ebdssbcitybrowse",
-      "tags": [
-        "coffee"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 43,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "30753b45dbbb",
-      "title": "STEM Family Sundays at iFLY Charlotte!",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Sunday • 4:00 PMiFLY Indoor Skydiving - CharlotteCheck ticket price on eventSave this event: STEM Family Sundays at iFLY Charlotte!Share this event: STEM Family Sundays at iFLY Charlotte!",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/stem-family-sundays-at-ifly-charlotte-tickets-1991766238436?aff=ebdssbcitybrowse",
-      "tags": [
-        "family"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 43,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Targets families and kids — a core Boba Bean audience. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "8604ec5fa772",
       "title": "Bark in the Ballpark at Charlotte Knights game (ticket price varies)",
       "date": null,
@@ -1845,31 +1770,6 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "f96f73c8ba9e",
-      "title": "MOR+ Music Bingo @ Southern Strain Brewing - Concord",
-      "date": null,
-      "startTime": "18:30",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Tomorrow • 6:30 PM + 28 more165 Brumley Avenue NE, Suite 3001 Concord, NC, US 28025Check ticket price on eventSave this event: MOR+ Music Bingo @ Southern Strain Brewing - ConcordShare this event: MOR+ Music Bingo @ Southern Strain Brewing - Concord",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/mor-music-bingo-southern-strain-brewing-concord-tickets-760803643177?aff=ebdssbcitybrowse",
-      "tags": [
-        "brewery"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 42,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "fb3787d0f5d9",
@@ -1948,52 +1848,6 @@
       "riskLabel": "Low",
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: farther away (22 miles). Draws teens and students who may otherwise stop in. Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "a1864504ed18",
-      "title": "R&B Friday's",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Friday • 7:00 PM + 1 moreDave & Buster's ConcordCheck ticket price on eventSave this event: R&B Friday'sShare this event: R&B Friday's",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/rb-fridays-tickets-1987616808379?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 33,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "60ba9c1a558b",
-      "title": "R & B Friday's",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Friday • 7:00 PM + 25 moreDave & Buster's ConcordCheck ticket price on eventSave this event: R & B Friday'sShare this event: R & B Friday's",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/r-b-fridays-tickets-1986669131853?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 33,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -2098,78 +1952,6 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
-      "id": "0f21c5a956ce",
-      "title": "2026  Spartina 449 Warehouse Sale",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Almost full2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.7k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
-      "tags": [
-        "school",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 25,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "7fb655a6f5d4",
-      "title": "A Night Out in Kannapolis | Dinner with New Friends: Small Town Edition",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Sunday • 7:00 PM + 5 moreRestaurant of the WeekCheck ticket price on eventSave this event: A Night Out in Kannapolis | Dinner with New Friends: Small Town EditionShare this event: A Night Out in Kannapolis | Dinner with New Friends: Small Town Edition",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/a-night-out-in-kannapolis-dinner-with-new-friends-small-town-edition-tickets-1937119349119?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 25,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "adbedd607448",
-      "title": "Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean Delivery",
-      "date": null,
-      "startTime": "16:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Almost fullSunday • 4:00 PM GMT+1Check ticket price on eventSave this event: Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean DeliveryShare this event: Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean Delivery",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.co.uk/e/beyond-pas-anatomy-guided-surgery-for-complex-caesarean-delivery-tickets-1992050386330?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 23,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "755a28442b8d",
       "title": "World Cup Watch Parties (every game; time varies)",
       "date": null,
@@ -2245,32 +2027,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "5d49b126544c",
-      "title": "2026  Spartina 449 Warehouse Sale",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Almost full2026 Spartina 449 Warehouse SaleBluffton High SchoolFrom $7.18Spartina 4491.7k followersPromotedSave this event: 2026 Spartina 449 Warehouse SaleShare this event: 2026 Spartina 449 Warehouse SalePromoted event actions",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/2026-spartina-449-warehouse-sale-tickets-1990522325860?aff=ebdssbcitybrowse",
-      "tags": [
-        "school",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 17,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
       "id": "cad3784d019d",
       "title": "World Cup Watch Parties (start times vary)",
       "date": null,
@@ -2343,54 +2099,6 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "9b4b5c7e87bc",
-      "title": "Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean Delivery",
-      "date": null,
-      "startTime": "16:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Almost fullSunday • 4:00 PM GMT+1Check ticket price on eventSave this event: Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean DeliveryShare this event: Beyond PAS: Anatomy-Guided Surgery for Complex Caesarean Delivery",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.co.uk/e/beyond-pas-anatomy-guided-surgery-for-complex-caesarean-delivery-tickets-1992050386330?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 15,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "99c4f922b5ca",
-      "title": "NASA's Nancy Grace Roman Space Telescope Launch",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Check ticket price on eventSave this event: NASA's Nancy Grace Roman Space Telescope LaunchShare this event: NASA's Nancy Grace Roman Space Telescope Launch",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/nasas-nancy-grace-roman-space-telescope-launch-tickets-1983457247019?aff=ebdssbcitybrowse",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 10,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -2569,31 +2277,6 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
-      "id": "482a7368bdbc",
-      "title": "Big Drip Revival",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Sales end soonSaturday • 6:00 PMThe Percantile and CreameryCheck ticket price on eventSave this event: Big Drip RevivalShare this event: Big Drip Revival",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/big-drip-revival-tickets-1992771291577?aff=ebdssbcitybrowse",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 7,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
       "id": "ee1b6d9b573a",
       "title": "The Game Show Arena",
       "date": null,
@@ -2662,31 +2345,6 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "64109a7430da",
-      "title": "NASA's Nancy Grace Roman Space Telescope Launch",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Check ticket price on eventSave this event: NASA's Nancy Grace Roman Space Telescope LaunchShare this event: NASA's Nancy Grace Roman Space Telescope Launch",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/nasas-nancy-grace-roman-space-telescope-launch-tickets-1983457247019?aff=ebdssbcitybrowse",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": 2,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -3909,29 +3567,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "e4383284cd30",
-      "title": "Vegan Vibes Music Series Charlotte",
-      "date": null,
-      "startTime": "15:00",
-      "endTime": null,
-      "venue": "Eventbrite - Concord",
-      "city": "Concord",
-      "distanceMiles": 5,
-      "description": "Sunday • 3:00 PM + 2 more329 McGill Ave NWCheck ticket price on eventSave this event: Vegan Vibes Music Series CharlotteShare this event: Vegan Vibes Music Series Charlotte",
-      "source": "Eventbrite - Concord",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--concord/events/",
-      "eventUrl": "https://www.eventbrite.com/e/vegan-vibes-music-series-charlotte-tickets-1987941832535?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": -2,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Location: nearby (5 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "df2e0a6ed013",
       "title": "Babes in the Woods",
       "date": null,
@@ -4445,29 +4080,6 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (9 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "812dcf7dcb72",
-      "title": "KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
-      "date": null,
-      "startTime": "09:00",
-      "endTime": null,
-      "venue": "Eventbrite - Kannapolis",
-      "city": "Concord",
-      "distanceMiles": 8,
-      "description": "Thursday • 9:00 AM + 1 more6001 Gateway Center DrCheck ticket price on eventSave this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)Share this event: KWP Wealth Intensive – Stop Earning. Start Building. (Summer Edition)",
-      "source": "Eventbrite - Kannapolis",
-      "sourceUrl": "https://www.eventbrite.com/d/nc--kannapolis/events/",
-      "eventUrl": "https://www.eventbrite.com/e/kwp-wealth-intensive-stop-earning-start-building-summer-edition-tickets-1991383951004?aff=ebdssbcitybrowse",
-      "tags": [],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 5,
-      "score": -10,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
