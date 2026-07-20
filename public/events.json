@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:18:53.695Z",
+  "updatedAt": "2026-07-20T22:09:13.683Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Moderate",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:42.691Z",
+      "lastChecked": "2026-07-20T22:08:53.412Z",
       "candidateCount": 4,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:43.106Z",
+      "lastChecked": "2026-07-20T22:08:55.233Z",
       "candidateCount": 2,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:45.249Z",
+      "lastChecked": "2026-07-20T22:08:57.276Z",
       "candidateCount": 1,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:45.545Z",
+      "lastChecked": "2026-07-20T22:08:57.586Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:45.687Z",
+      "lastChecked": "2026-07-20T22:08:57.739Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-07-20T15:18:46.269Z",
+      "lastChecked": "2026-07-20T22:08:58.827Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-07-20T15:18:47.416Z",
+      "lastChecked": "2026-07-20T22:09:00.373Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:47.553Z",
+      "lastChecked": "2026-07-20T22:09:00.546Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:47.994Z",
+      "lastChecked": "2026-07-20T22:09:01.157Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:48.848Z",
+      "lastChecked": "2026-07-20T22:09:02.052Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:48.871Z",
+      "lastChecked": "2026-07-20T22:09:02.104Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:49.340Z",
+      "lastChecked": "2026-07-20T22:09:02.555Z",
       "candidateCount": 20,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:50.533Z",
+      "lastChecked": "2026-07-20T22:09:03.773Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:50.877Z",
+      "lastChecked": "2026-07-20T22:09:03.995Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:50.948Z",
+      "lastChecked": "2026-07-20T22:09:04.055Z",
       "candidateCount": 11,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:52.095Z",
+      "lastChecked": "2026-07-20T22:09:05.158Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:52.270Z",
+      "lastChecked": "2026-07-20T22:09:05.526Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:52.457Z",
+      "lastChecked": "2026-07-20T22:09:05.747Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:52.566Z",
+      "lastChecked": "2026-07-20T22:09:05.850Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:52.574Z",
+      "lastChecked": "2026-07-20T22:09:05.857Z",
       "candidateCount": 36,
       "error": null
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-20T15:18:53.092Z",
+      "lastChecked": "2026-07-20T22:09:08.301Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-07-20T15:18:53.328Z",
+      "lastChecked": "2026-07-20T22:09:13.338Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
@@ -691,7 +691,7 @@
       "venue": "Charlotte on the Cheap",
       "city": "Concord",
       "distanceMiles": 22,
-      "description": "Event Time Price Location  All Day Various locations Queen's Feast -- Charlotte Restaurant Week All Day $30.00-55.00 Charlotte, NC (many locations throughout Charlotte region) Vision to Learn: Free eye exams for kids (registration is required) 9:00 am to 1:00 pm FREE Allegra Westbrooks Regional Libr",
+      "description": "Event Time Price Location  All Day Various locations Queen's Feast -- Charlotte Restaurant Week All Day $30.00-55.00 Charlotte, NC (many locations throughout Charlotte region) Get a free $5 gift card at Dunkin' (only specific locations -- click link for addresses and specific start times) 4:30 am FR",
       "source": "Charlotte on the Cheap",
       "sourceUrl": "https://www.charlotteonthecheap.com/events/",
       "eventUrl": "https://www.charlotteonthecheap.com/national-tequila-day/",
