@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T15:29:10.230Z",
+  "updatedAt": "2026-07-28T22:13:04.950Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -8,22 +8,22 @@
     "weekHighestRiskDay": "2026-07-30",
     "highRiskCount": 0,
     "opportunityCount": 0,
-    "needsReviewCount": 6
+    "needsReviewCount": 8
   },
   "sourceHealth": [
     {
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:28:57.220Z",
-      "candidateCount": 2,
+      "lastChecked": "2026-07-28T22:12:51.225Z",
+      "candidateCount": 3,
       "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:28:57.609Z",
+      "lastChecked": "2026-07-28T22:12:51.767Z",
       "candidateCount": 3,
       "error": null
     },
@@ -31,15 +31,15 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:28:59.827Z",
-      "candidateCount": 1,
+      "lastChecked": "2026-07-28T22:12:53.822Z",
+      "candidateCount": 2,
       "error": null
     },
     {
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:00.349Z",
+      "lastChecked": "2026-07-28T22:12:54.067Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:00.494Z",
+      "lastChecked": "2026-07-28T22:12:54.184Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-07-28T15:29:00.874Z",
+      "lastChecked": "2026-07-28T22:12:54.999Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-07-28T15:29:02.656Z",
+      "lastChecked": "2026-07-28T22:12:55.883Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:02.798Z",
+      "lastChecked": "2026-07-28T22:12:56.021Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:03.407Z",
+      "lastChecked": "2026-07-28T22:12:56.660Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:04.273Z",
+      "lastChecked": "2026-07-28T22:12:57.661Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:04.348Z",
+      "lastChecked": "2026-07-28T22:12:57.706Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:04.883Z",
+      "lastChecked": "2026-07-28T22:12:58.330Z",
       "candidateCount": 18,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:07.109Z",
+      "lastChecked": "2026-07-28T22:12:59.732Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:07.257Z",
+      "lastChecked": "2026-07-28T22:13:00.115Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:07.286Z",
+      "lastChecked": "2026-07-28T22:13:00.181Z",
       "candidateCount": 2,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:08.357Z",
+      "lastChecked": "2026-07-28T22:13:01.391Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:08.558Z",
+      "lastChecked": "2026-07-28T22:13:02.989Z",
       "candidateCount": 1,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:08.653Z",
+      "lastChecked": "2026-07-28T22:13:03.315Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:08.707Z",
+      "lastChecked": "2026-07-28T22:13:03.576Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,15 +167,15 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:08.714Z",
-      "candidateCount": 49,
+      "lastChecked": "2026-07-28T22:13:03.593Z",
+      "candidateCount": 46,
       "error": null
     },
     {
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-07-28T15:29:09.497Z",
+      "lastChecked": "2026-07-28T22:13:04.175Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,12 +183,37 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-07-28T15:29:09.815Z",
+      "lastChecked": "2026-07-28T22:13:04.674Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
   ],
   "events": [
+    {
+      "id": "6bdb91ff8a1d",
+      "title": "Harry Potter birthday Week",
+      "date": "2026-07-29",
+      "startTime": null,
+      "endTime": null,
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "July 29 – August 2 Everyone enters through the Platform 9 3/4 – and gets a passsport to visit each house and earn points for the house cup. Our four Charlotte-metro stores each become a Hogwarts house Camp North End (Slytherin), Concord/District Exchange (Ravenclaw), Charlotte Premium Outlets (Gryff",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/harry-potter-birthday-week/",
+      "tags": [
+        "sports"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 9,
+      "score": 14,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
     {
       "id": "b25f11907070",
       "title": "Event Series",
@@ -303,6 +328,31 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "b9c7500fd3df",
+      "title": "Blueberry Day at Southern Strain Brewery",
+      "date": "2026-08-01",
+      "startTime": null,
+      "endTime": null,
+      "venue": "Explore Cabarrus Events",
+      "city": "Concord",
+      "distanceMiles": 7,
+      "description": "Aug 1, 2026 Summer’s ending, but don’t be blue! The summer seasonal series continues at Southern Strain Brewing Company with Blueberry Day! ...",
+      "source": "Explore Cabarrus Events",
+      "sourceUrl": "https://www.explorecabarrus.com/events/",
+      "eventUrl": "",
+      "tags": [
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 8,
+      "score": 10,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "818d6650efef",
@@ -704,32 +754,6 @@
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
-      "id": "481c40a2c5ed",
-      "title": "Music Bingo",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": "22:00",
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "7:00 pm to 10:00 pm | FREE | Old Armor Beer Company, Kannapolis",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/old-armor-beer-company/",
-      "tags": [
-        "free",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": 76,
-      "riskLabel": "High",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
       "id": "166a8d05b445",
       "title": "Free wine tasting at 115 Craft",
       "date": null,
@@ -981,58 +1005,6 @@
       "riskLabel": "Moderate",
       "impactType": "Diversion Risk",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Food event that may satisfy the same impulse as stopping at Boba Bean. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "0eaf6185e9c5",
-      "title": "Trivia Night",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "7:00 pm | FREE | Heist Brewery",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/heist-brewery/",
-      "tags": [
-        "free",
-        "brewery"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": 56,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "3317192e49ea",
-      "title": "Trivia",
-      "date": null,
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "7:00 pm | FREE | Lore Brewing, Indian Land",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/lore-brewing-company/",
-      "tags": [
-        "free",
-        "brewery"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": 56,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
