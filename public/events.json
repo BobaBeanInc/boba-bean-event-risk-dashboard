@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:52:13.292Z",
+  "updatedAt": "2026-08-26T13:59:57.685Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -15,15 +15,15 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:51:55.373Z",
-      "candidateCount": 2,
+      "lastChecked": "2026-08-26T13:59:45.524Z",
+      "candidateCount": 1,
       "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:51:55.967Z",
+      "lastChecked": "2026-08-26T13:59:47.308Z",
       "candidateCount": 1,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:51:57.939Z",
+      "lastChecked": "2026-08-26T13:59:49.224Z",
       "candidateCount": 4,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:51:58.223Z",
+      "lastChecked": "2026-08-26T13:59:49.714Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:51:58.357Z",
+      "lastChecked": "2026-08-26T13:59:49.879Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-08-26T09:51:58.872Z",
+      "lastChecked": "2026-08-26T13:59:50.097Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-08-26T09:52:00.877Z",
+      "lastChecked": "2026-08-26T13:59:50.889Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:00.973Z",
+      "lastChecked": "2026-08-26T13:59:50.972Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:01.366Z",
+      "lastChecked": "2026-08-26T13:59:51.581Z",
       "candidateCount": 26,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:02.515Z",
+      "lastChecked": "2026-08-26T13:59:52.456Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:02.565Z",
+      "lastChecked": "2026-08-26T13:59:52.473Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:03.201Z",
+      "lastChecked": "2026-08-26T13:59:52.837Z",
       "candidateCount": 14,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:07.984Z",
+      "lastChecked": "2026-08-26T13:59:54.159Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:08.237Z",
+      "lastChecked": "2026-08-26T13:59:54.267Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:08.283Z",
+      "lastChecked": "2026-08-26T13:59:54.289Z",
       "candidateCount": 2,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:10.339Z",
+      "lastChecked": "2026-08-26T13:59:55.605Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:10.621Z",
+      "lastChecked": "2026-08-26T13:59:55.836Z",
       "candidateCount": 47,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:10.930Z",
+      "lastChecked": "2026-08-26T13:59:56.061Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:11.133Z",
+      "lastChecked": "2026-08-26T13:59:56.096Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:11.149Z",
+      "lastChecked": "2026-08-26T13:59:56.102Z",
       "candidateCount": 48,
       "error": null
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-08-26T09:52:11.863Z",
+      "lastChecked": "2026-08-26T13:59:56.756Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-08-26T09:52:12.390Z",
+      "lastChecked": "2026-08-26T13:59:57.145Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
@@ -1096,32 +1096,6 @@
       "riskLabel": "Moderate",
       "impactType": "Diversion Risk",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "6878b26d3e57",
-      "title": "Kids Eat Free at Hawthorne’s Pizza!",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Downtown Concord",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "Join us every Tuesday for Kids Eat Free! One free kids meal per adult entree. 25 Aug All Day Hawthorne's NY Pizza & Bar 25 Union Street N FacebookTwitterLinkedinEmail View Detail",
-      "source": "Downtown Concord",
-      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/kids-eat-free-at-hawthornes-pizza/",
-      "tags": [
-        "kids",
-        "free"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 9,
-      "score": 62,
-      "riskLabel": "Moderate",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Targets families and kids — a core Boba Bean audience. Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
