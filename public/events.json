@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:13:40.315Z",
+  "updatedAt": "2026-09-07T23:26:13.684Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "High",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:27.617Z",
+      "lastChecked": "2026-09-07T23:26:02.103Z",
       "candidateCount": 6,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:28.416Z",
+      "lastChecked": "2026-09-07T23:26:02.925Z",
       "candidateCount": 2,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:29.972Z",
+      "lastChecked": "2026-09-07T23:26:04.435Z",
       "candidateCount": 2,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:30.292Z",
+      "lastChecked": "2026-09-07T23:26:04.743Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:30.381Z",
+      "lastChecked": "2026-09-07T23:26:04.826Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-09-07T18:13:30.622Z",
+      "lastChecked": "2026-09-07T23:26:04.983Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-09-07T18:13:31.303Z",
+      "lastChecked": "2026-09-07T23:26:06.897Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:31.478Z",
+      "lastChecked": "2026-09-07T23:26:06.990Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:31.888Z",
+      "lastChecked": "2026-09-07T23:26:07.405Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:32.346Z",
+      "lastChecked": "2026-09-07T23:26:07.854Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:32.444Z",
+      "lastChecked": "2026-09-07T23:26:07.867Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:32.773Z",
+      "lastChecked": "2026-09-07T23:26:08.181Z",
       "candidateCount": 16,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:34.537Z",
+      "lastChecked": "2026-09-07T23:26:10.156Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:34.901Z",
+      "lastChecked": "2026-09-07T23:26:10.430Z",
       "candidateCount": 0,
       "error": "unable to get local issuer certificate"
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:34.940Z",
+      "lastChecked": "2026-09-07T23:26:10.463Z",
       "candidateCount": 10,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:36.540Z",
+      "lastChecked": "2026-09-07T23:26:12.133Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "Partial",
-      "lastChecked": "2026-09-07T18:13:38.734Z",
+      "lastChecked": "2026-09-07T23:26:12.341Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:38.986Z",
+      "lastChecked": "2026-09-07T23:26:12.490Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:39.104Z",
+      "lastChecked": "2026-09-07T23:26:12.756Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,15 +167,15 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:39.119Z",
-      "candidateCount": 33,
+      "lastChecked": "2026-09-07T23:26:12.768Z",
+      "candidateCount": 32,
       "error": null
     },
     {
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-09-07T18:13:39.479Z",
+      "lastChecked": "2026-09-07T23:26:13.149Z",
       "candidateCount": 5,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-09-07T18:13:40.094Z",
+      "lastChecked": "2026-09-07T23:26:13.490Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
@@ -700,7 +700,7 @@
       "id": "82f1a86015a5",
       "title": "Kids eat free at IKEA Swedish Restaurant, with adult entrée purchase",
       "date": null,
-      "startTime": "11:00",
+      "startTime": "05:00",
       "endTime": "21:00",
       "venue": "Charlotte on the Cheap",
       "city": "Concord",
@@ -727,37 +727,6 @@
       "impactType": "Diversion Risk",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Targets families and kids — a core Boba Bean audience. Draws teens and students who may otherwise stop in. Free admission may pull casual walk-in traffic. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "b3571ab0ccee",
-      "title": "OMB 2026 Mecktoberfest Weekend One",
-      "date": null,
-      "startTime": "05:00",
-      "endTime": "21:00",
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "Event Time Price Location  FREE Olde Mecklenburg Brewery — LoSo Party on the Plaza with The Bechtler 5:00 am to 9:00 pm FREE Bechtler Museum of Modern Art 9/11 Flags of Remembrance Ceremony 8:00 am FREE Romare Bearden Park Piedmont Music Therapy: Community Grooves for Seniors (registration required)",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/olde-mecklenburg-brewery/",
-      "tags": [
-        "school",
-        "free",
-        "festival",
-        "food truck",
-        "live music",
-        "beer",
-        "brewery"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": 130,
-      "riskLabel": "High",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Draws teens and students who may otherwise stop in. Free admission may pull casual walk-in traffic. Food event that may satisfy the same impulse as stopping at Boba Bean. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "b8b4b1c17d2c",
@@ -838,6 +807,37 @@
       "riskLabel": "High",
       "impactType": "Diversion Risk",
       "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Free admission may pull casual walk-in traffic. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
+      "id": "b3571ab0ccee",
+      "title": "OMB 2026 Mecktoberfest Weekend One",
+      "date": null,
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "venue": "Charlotte on the Cheap",
+      "city": "Concord",
+      "distanceMiles": 22,
+      "description": "Event Time Price Location  FREE Olde Mecklenburg Brewery — LoSo 9/11 Flags of Remembrance Ceremony 8:00 am FREE Romare Bearden Park Piedmont Music Therapy: Community Grooves for Seniors (registration required) 9:30 am to 10:30 am FREE Marion Diehl Park Move Beyond: Learn Contemporary and Cambodian D",
+      "source": "Charlotte on the Cheap",
+      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
+      "eventUrl": "https://www.charlotteonthecheap.com/olde-mecklenburg-brewery/",
+      "tags": [
+        "school",
+        "free",
+        "festival",
+        "food truck",
+        "live music",
+        "beer",
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 4,
+      "score": 80,
+      "riskLabel": "High",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "Details need manual review before acting on this. Time note: ends before the evening window. Location: farther away (22 miles). Draws teens and students who may otherwise stop in. Free admission may pull casual walk-in traffic. Food event that may satisfy the same impulse as stopping at Boba Bean. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
@@ -1555,31 +1555,6 @@
       "riskLabel": "Low",
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "e5c22e7097c3",
-      "title": "Student discount at The Percantile and Creamery: 15% off",
-      "date": null,
-      "startTime": "14:00",
-      "endTime": "20:00",
-      "venue": "Charlotte on the Cheap",
-      "city": "Concord",
-      "distanceMiles": 22,
-      "description": "2:00 pm to 8:00 pm | Discounted | The Percantile and Creamery, Concord",
-      "source": "Charlotte on the Cheap",
-      "sourceUrl": "https://www.charlotteonthecheap.com/events/",
-      "eventUrl": "https://www.charlotteonthecheap.com/percantile-creamery-concord/",
-      "tags": [
-        "student"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 4,
-      "score": 32,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: farther away (22 miles). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
