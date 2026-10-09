@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-10-09T01:09:46.074Z",
+  "updatedAt": "2026-10-09T16:06:31.791Z",
   "timezone": "America/New_York",
   "summary": {
-    "todayRisk": "Moderate",
-    "tonightRisk": "Moderate",
+    "todayRisk": "High",
+    "tonightRisk": "Minimal",
     "tomorrowRisk": "High",
-    "weekHighestRiskDay": "2026-10-09",
-    "highRiskCount": 2,
+    "weekHighestRiskDay": "2026-10-10",
+    "highRiskCount": 3,
     "opportunityCount": 0,
-    "needsReviewCount": 14
+    "needsReviewCount": 7
   },
   "sourceHealth": [
     {
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:31.051Z",
-      "candidateCount": 5,
+      "lastChecked": "2026-10-09T16:05:47.674Z",
+      "candidateCount": 7,
       "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:32.495Z",
+      "lastChecked": "2026-10-09T16:05:48.418Z",
       "candidateCount": 2,
       "error": null
     },
     {
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
-      "status": "OK",
-      "lastChecked": "2026-10-09T01:09:33.923Z",
-      "candidateCount": 9,
-      "error": null
+      "status": "Failed",
+      "lastChecked": "2026-10-09T16:05:49.722Z",
+      "candidateCount": 0,
+      "error": "Request timed out after 15000ms"
     },
     {
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:35.377Z",
+      "lastChecked": "2026-10-09T16:06:04.884Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:36.714Z",
+      "lastChecked": "2026-10-09T16:06:19.677Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-10-09T01:09:37.130Z",
+      "lastChecked": "2026-10-09T16:06:20.808Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-10-09T01:09:37.543Z",
+      "lastChecked": "2026-10-09T16:06:22.313Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:37.772Z",
+      "lastChecked": "2026-10-09T16:06:22.576Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:37.973Z",
+      "lastChecked": "2026-10-09T16:06:22.798Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:38.556Z",
+      "lastChecked": "2026-10-09T16:06:23.307Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:38.612Z",
+      "lastChecked": "2026-10-09T16:06:23.370Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:39.195Z",
+      "lastChecked": "2026-10-09T16:06:23.887Z",
       "candidateCount": 23,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:41.161Z",
+      "lastChecked": "2026-10-09T16:06:26.166Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:41.577Z",
+      "lastChecked": "2026-10-09T16:06:26.489Z",
       "candidateCount": 294,
       "error": null
     },
@@ -127,15 +127,15 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:42.123Z",
-      "candidateCount": 9,
+      "lastChecked": "2026-10-09T16:06:27.169Z",
+      "candidateCount": 7,
       "error": null
     },
     {
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:44.246Z",
+      "lastChecked": "2026-10-09T16:06:29.072Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "Partial",
-      "lastChecked": "2026-10-09T01:09:44.463Z",
+      "lastChecked": "2026-10-09T16:06:29.557Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:44.729Z",
+      "lastChecked": "2026-10-09T16:06:30.414Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:44.946Z",
+      "lastChecked": "2026-10-09T16:06:30.533Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:44.962Z",
+      "lastChecked": "2026-10-09T16:06:30.550Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlotteonthecheap.com/events/"
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-09T01:09:45.192Z",
+      "lastChecked": "2026-10-09T16:06:30.737Z",
       "candidateCount": 3,
       "error": null
     },
@@ -183,37 +183,12 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-10-09T01:09:45.691Z",
+      "lastChecked": "2026-10-09T16:06:31.361Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
   ],
   "events": [
-    {
-      "id": "16dbaf323322",
-      "title": "Old Courthouse Theatre Presents: “Spider’s Web” by Agatha Christie",
-      "date": "2026-10-08",
-      "startTime": "19:00",
-      "endTime": null,
-      "venue": "Cabarrus Arts Council",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "October 8 @ 7:00 pm - October 18 @ 7:00 pm Old Courthouse Theatre 49 Spring St NW Concord, NC 28025, Concord, NC, United States Agatha Christie’s comedy thriller in three acts delivers a unique blend of suspense and humor in an intricate plot of murder, police, drug addicts, invisible ink, hidden do",
-      "source": "Cabarrus Arts Council",
-      "sourceUrl": "https://cabarrusartscouncil.org/events/",
-      "eventUrl": "https://cabarrusartscouncil.org/event/old-courthouse-theatre-presents-spiders-web-by-agatha-christie/",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 7,
-      "score": 64,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
     {
       "id": "a07fec63b81e",
       "title": "Kids Smoothie Saturday at Era Wellness Bar",
@@ -243,129 +218,6 @@
       "suggestedAction": "Plan a counter-promo: post a 3–5 PM drink special and an after-event treat promo from 8–9 PM."
     },
     {
-      "id": "a9ce4c598677",
-      "title": "Music & Movement (CON)",
-      "date": "2026-10-09",
-      "startTime": "10:15",
-      "endTime": null,
-      "venue": "Cabarrus Arts Council",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "October 9 @ 10:15 am Kannapolis Library 850 Mountain St, Kannapolis, NC, United States Ages 3-5 with caregiver – Join us for a fun and energetic story time with dance, rhythm and music! No registration. For more information, please visit Events for October 2026 – Cabarrus County Public Library.",
-      "source": "Cabarrus Arts Council",
-      "sourceUrl": "https://cabarrusartscouncil.org/events/",
-      "eventUrl": "https://cabarrusartscouncil.org/event/music-movement-con-3/",
-      "tags": [],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 7,
-      "score": 20,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Location: nearby (4 miles away).",
-      "suggestedAction": "Minimal impact expected. No action required."
-    },
-    {
-      "id": "a83daa85a0a7",
-      "title": "Team Penske Open House",
-      "date": "2026-10-09",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 9, 2026 Join Team Penske for their inaugural Open House ahead of the Bank of America 400 race weekend! Fans will be able to explore the fan walk, th...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 13,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "fdc5c2d41c02",
-      "title": "Fall Fan Day at Spire Motorsports",
-      "date": "2026-10-09",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 9, 2026 Spire Motorsports will open its doors for race fans prior to NASCAR’s tripleheader race weekend at Charlotte Motor Speedway. Driver autogr...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 13,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "5652f1bfd91a",
-      "title": "Ross Chastain Autograph Event at Comfort Inn & Suites",
-      "date": "2026-10-09",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 9, 2026 Get an autograph signed by NASCAR Driver Ross Chastain at Comfort Inn & Suites in Concord, NC ahead of the Bank of America 400! Chastain...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 13,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "7ca5cc1954ed",
-      "title": "Moonlight Paint Night at Southern Grace Distilleries",
-      "date": "2026-10-09",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 9, 2026 Get ready for Halloween with a fun night of paint and sip at Southern Grace Distilleries at Whiskey Prison in Mount Pleasant, NC! Wendy an...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 13,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "adc61d8e20bf",
       "title": "Art Café: Practical Magic* (HAR)",
       "date": "2026-10-10",
@@ -390,32 +242,6 @@
       "impactType": "Diversion Risk",
       "whyItMatters": "Location: nearby (4 miles away). This is a direct dessert, coffee, or drinks competitor.",
       "suggestedAction": "Plan a counter-promo: post a 3–5 PM drink special and an after-event treat promo from 8–9 PM."
-    },
-    {
-      "id": "ef68632623b2",
-      "title": "Harrisburg Bar-Ba-Brew BBQ & Beer Festival",
-      "date": "2026-10-10",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 10, 2026 Come out to Harrisburg Town Center for the 6th Annual Bar-Ba-Brew BBQ & Beer Festival! Enjoy all you can sample BBQ and craft beer. The ...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "festival",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 30,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "98ab551feed2",
@@ -489,31 +315,6 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "76693e04f656",
-      "title": "Pit Stop Party at Speedway Harley-Davidson",
-      "date": "2026-10-10",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 10, 2026 In town for the race? Make a pit stop with Speedway Harley-Davidson! On Saturday, enjoy a pit stop party with food, games, prizes and plenty...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 13,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
       "id": "8eca19855d8a",
       "title": "Sip & Script",
       "date": "2026-10-10",
@@ -583,6 +384,31 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "dba1883952ad",
+      "title": "SUNDAYS at HAVANA!",
+      "date": "2026-10-11",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "We’re officially open on Sundays again! Come enjoy authentic Cuban flavors, handcrafted cocktails, and the vibrant Havana Carolina atmosphere. 11 Oct 11:00 am - 6:00 pm HAVANA CAROLINA RESTAURANT AND BAR 11 UNION ST SOUTH STE 108 FacebookTwitterLinkedinEmail View Detail",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/sundays-at-havana/",
+      "tags": [
+        "drinks"
+      ],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 9,
+      "score": 87,
+      "riskLabel": "High",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away). This is a direct dessert, coffee, or drinks competitor.",
+      "suggestedAction": "Plan a counter-promo: post a 3–5 PM drink special and an after-event treat promo from 8–9 PM."
+    },
+    {
       "id": "b330e27f2ade",
       "title": "Piedmont Choral Society Presents: Old Fashioned Hymn Sing",
       "date": "2026-10-11",
@@ -608,18 +434,18 @@
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
     },
     {
-      "id": "1e25980b9c10",
-      "title": "Concord Friends of the Library Annual Symposium",
+      "id": "e584c4e209d6",
+      "title": "Sunday Funday @ Barley Jean’s Bakery",
       "date": "2026-10-11",
-      "startTime": "11:30",
-      "endTime": "14:00",
+      "startTime": "11:00",
+      "endTime": "15:00",
       "venue": "Downtown Concord",
       "city": "Concord",
       "distanceMiles": 4,
-      "description": "You are invited to the Concord Friends of the Library 2026 Symposium with author David Joy! Please join us for brunch and a curated conversation between author David Joy and our local bookstore owner, David Kern! 08 Oct 11:30 am - 2:00 pm 3247 Weddington Rd, Concord, NC 28027 Cabarrus Country Club F",
+      "description": "Come visit us during our store hours on Sundays and receive 15% off your entire purchase! 11 Oct 11:00 am - 3:00 pm Barley Jean's Bakery District Exchange FacebookTwitterLinkedinEmail View Detail",
       "source": "Downtown Concord",
       "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/concord-friends-of-the-library-annual-symposium/",
+      "eventUrl": "https://downtownconcordnc.com/events/sunday-funday-barley-jeans-bakery/",
       "tags": [],
       "confidence": "medium",
       "needsReview": false,
@@ -629,31 +455,6 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Time note: ends before the evening window. Location: nearby (4 miles away).",
       "suggestedAction": "Minimal impact expected. No action required."
-    },
-    {
-      "id": "f1da61526fef",
-      "title": "Thirsty Thursday",
-      "date": "2026-10-12",
-      "startTime": "12:00",
-      "endTime": "22:00",
-      "venue": "Downtown Concord",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "$5 Draft Beer Every Thursday! 08 Oct 12:00 pm - 10:00 pm First-N-Flights 22 Union St. North Ste 106 FacebookTwitterLinkedinEmail View Detail",
-      "source": "Downtown Concord",
-      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/thirsty-thursday/",
-      "tags": [
-        "beer"
-      ],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 9,
-      "score": 61,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "a794b67f5278",
@@ -773,32 +574,6 @@
       "impactType": "Diversion Risk",
       "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
-    },
-    {
-      "id": "3156eb4736e3",
-      "title": "Pleasant Pours Cocktail Class at Southern Grace Distilleries",
-      "date": "2026-10-15",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 15, 2026 Don’t miss this cocktail class at Southern Grace Distilleries at Whiskey Prison in Mount Pleasant, NC! Bartender Virginia will lead th...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "drinks",
-        "sports"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 58,
-      "riskLabel": "Moderate",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
       "id": "f0c0cd297426",
@@ -929,6 +704,33 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: very close (3 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "e4f5a885344d",
+      "title": "Enjoy a FREE day of Coworking with the schedule of a tour!",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Schedule a tour of Flywheel and work out of the space for the day! Take advantage of our free WiFi, coffee bar, phone rooms, and plenty of workspace. Reserve your tour today- https://calendly.com/saraflywheel/flywheel-tour We can’t wait to see you soon! This promotion is available Monday – Friday du",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/enjoy-a-free-day-of-coworking-with-the-schedule-of-a-tour/",
+      "tags": [
+        "free",
+        "coffee",
+        "beer"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 9,
+      "score": 66,
+      "riskLabel": "Moderate",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Free admission may pull casual walk-in traffic. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "434305134985",
@@ -8071,6 +7873,29 @@
       "source": "Downtown Concord",
       "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
       "eventUrl": "https://downtownconcordnc.com/events/sunday-fun-day/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 9,
+      "score": 2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "dfe317604c5d",
+      "title": "Half Priced Bottles of Wine at Hawthorne’s Pizza!",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us every Sunday for half priced bottles of wine! Cheers! 11 Oct All Day Hawthorne's NY Pizza & Bar 25 Union Street N FacebookTwitterLinkedinEmail View Detail",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/half-priced-bottles-of-wine-at-hawthornes-pizza/",
       "tags": [],
       "confidence": "low",
       "needsReview": true,
