@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-17T23:01:28.267Z",
+  "updatedAt": "2026-10-18T13:10:07.409Z",
   "timezone": "America/New_York",
   "summary": {
-    "todayRisk": "Low",
+    "todayRisk": "High",
     "tonightRisk": "Minimal",
     "tomorrowRisk": "High",
-    "weekHighestRiskDay": "2026-10-18",
+    "weekHighestRiskDay": "2026-10-19",
     "highRiskCount": 2,
     "opportunityCount": 0,
-    "needsReviewCount": 10
+    "needsReviewCount": 9
   },
   "sourceHealth": [
     {
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:14.375Z",
-      "candidateCount": 3,
+      "lastChecked": "2026-10-18T13:09:53.813Z",
+      "candidateCount": 4,
       "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:15.046Z",
+      "lastChecked": "2026-10-18T13:09:54.600Z",
       "candidateCount": 2,
       "error": null
     },
@@ -31,15 +31,15 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:16.416Z",
-      "candidateCount": 4,
+      "lastChecked": "2026-10-18T13:09:55.862Z",
+      "candidateCount": 2,
       "error": null
     },
     {
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:17.648Z",
+      "lastChecked": "2026-10-18T13:09:57.036Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:19.495Z",
+      "lastChecked": "2026-10-18T13:09:58.907Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-10-17T23:01:20.059Z",
+      "lastChecked": "2026-10-18T13:09:59.568Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-10-17T23:01:20.362Z",
+      "lastChecked": "2026-10-18T13:10:00.061Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:20.517Z",
+      "lastChecked": "2026-10-18T13:10:00.171Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:20.807Z",
+      "lastChecked": "2026-10-18T13:10:00.547Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:21.362Z",
+      "lastChecked": "2026-10-18T13:10:00.872Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:21.431Z",
+      "lastChecked": "2026-10-18T13:10:00.920Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,15 +103,15 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:21.873Z",
-      "candidateCount": 22,
+      "lastChecked": "2026-10-18T13:10:01.185Z",
+      "candidateCount": 23,
       "error": null
     },
     {
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:23.708Z",
+      "lastChecked": "2026-10-18T13:10:03.203Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:24.341Z",
+      "lastChecked": "2026-10-18T13:10:03.624Z",
       "candidateCount": 294,
       "error": null
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:24.869Z",
+      "lastChecked": "2026-10-18T13:10:04.195Z",
       "candidateCount": 9,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:26.537Z",
+      "lastChecked": "2026-10-18T13:10:05.860Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:26.743Z",
+      "lastChecked": "2026-10-18T13:10:06.111Z",
       "candidateCount": 47,
       "error": null
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:26.928Z",
+      "lastChecked": "2026-10-18T13:10:06.255Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:27.059Z",
+      "lastChecked": "2026-10-18T13:10:06.322Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:27.076Z",
+      "lastChecked": "2026-10-18T13:10:06.331Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlotteonthecheap.com/events/"
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-10-17T23:01:27.281Z",
+      "lastChecked": "2026-10-18T13:10:06.446Z",
       "candidateCount": 3,
       "error": null
     },
@@ -183,63 +183,12 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "Failed",
-      "lastChecked": "2026-10-17T23:01:27.842Z",
+      "lastChecked": "2026-10-18T13:10:07.065Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlottesgotalot.com/events"
     }
   ],
   "events": [
-    {
-      "id": "4f41131e9175",
-      "title": "Nooktoberfest",
-      "date": "2026-10-17",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 17, 2026 Raise a glass for Nooktoberfest at Percent Tap House at the Nook in Concord, NC! Celebrate the season with local beer and fun at PercentR...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "festival",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 30,
-      "riskLabel": "Low",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
-    {
-      "id": "9d4b75e1114c",
-      "title": "The Swanee Theatre Presents: ZZ Top Notch",
-      "date": "2026-10-17",
-      "startTime": null,
-      "endTime": null,
-      "venue": "Explore Cabarrus Events",
-      "city": "Concord",
-      "distanceMiles": 7,
-      "description": "Oct 17, 2026 Be there at The Swanee Theatre when ZZ Top Notch takes the stage! ZZ Top Notch grew from the love of the music from that Little Ol’ Band f...",
-      "source": "Explore Cabarrus Events",
-      "sourceUrl": "https://www.explorecabarrus.com/events/",
-      "eventUrl": "",
-      "tags": [
-        "live music"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 8,
-      "score": 11,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
     {
       "id": "f96ddbeaa499",
       "title": "Vegan Vibes Music Series",
@@ -608,6 +557,29 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "83210c1b72b2",
+      "title": "Sip & Script",
+      "date": "2026-10-25",
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/sip-script-6/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": -2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
       "id": "c62f24c0d4b2",
       "title": "Kids Candy Crawl",
       "date": null,
@@ -766,6 +738,32 @@
       "riskLabel": "Moderate",
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Food event that may satisfy the same impulse as stopping at Boba Bean. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "6878b26d3e57",
+      "title": "Kids Eat Free at Hawthorne’s Pizza!",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us every Tuesday for Kids Eat Free! One free kids meal per adult entree. 20 Oct All Day Hawthorne's NY Pizza & Bar 25 Union Street N FacebookTwitterLinkedinEmail View Detail",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/kids-eat-free-at-hawthornes-pizza/",
+      "tags": [
+        "kids",
+        "free"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 9,
+      "score": 62,
+      "riskLabel": "Moderate",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Targets families and kids — a core Boba Bean audience. Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
