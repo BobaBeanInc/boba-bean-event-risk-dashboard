@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T02:52:26.924Z",
+  "updatedAt": "2026-11-03T16:58:13.256Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Moderate",
     "tonightRisk": "Minimal",
-    "tomorrowRisk": "Moderate",
+    "tomorrowRisk": "Minimal",
     "weekHighestRiskDay": "2026-11-05",
     "highRiskCount": 4,
     "opportunityCount": 0,
@@ -15,15 +15,15 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:08.651Z",
-      "candidateCount": 8,
+      "lastChecked": "2026-11-03T16:57:55.360Z",
+      "candidateCount": 7,
       "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:09.400Z",
+      "lastChecked": "2026-11-03T16:57:56.015Z",
       "candidateCount": 4,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:10.456Z",
+      "lastChecked": "2026-11-03T16:57:57.702Z",
       "candidateCount": 4,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:12.044Z",
+      "lastChecked": "2026-11-03T16:57:59.658Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:14.470Z",
+      "lastChecked": "2026-11-03T16:58:02.175Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-11-03T02:52:14.840Z",
+      "lastChecked": "2026-11-03T16:58:02.516Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-11-03T02:52:17.529Z",
+      "lastChecked": "2026-11-03T16:58:05.114Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T02:52:17.663Z",
+      "lastChecked": "2026-11-03T16:58:05.260Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:18.054Z",
+      "lastChecked": "2026-11-03T16:58:05.643Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T02:52:18.649Z",
+      "lastChecked": "2026-11-03T16:58:06.820Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:18.703Z",
+      "lastChecked": "2026-11-03T16:58:06.895Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:18.962Z",
+      "lastChecked": "2026-11-03T16:58:07.326Z",
       "candidateCount": 7,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:22.865Z",
+      "lastChecked": "2026-11-03T16:58:09.074Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:23.415Z",
+      "lastChecked": "2026-11-03T16:58:09.397Z",
       "candidateCount": 295,
       "error": null
     },
@@ -127,7 +127,7 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:23.823Z",
+      "lastChecked": "2026-11-03T16:58:10.145Z",
       "candidateCount": 6,
       "error": null
     },
@@ -135,7 +135,7 @@
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:25.570Z",
+      "lastChecked": "2026-11-03T16:58:11.688Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "Partial",
-      "lastChecked": "2026-11-03T02:52:25.768Z",
+      "lastChecked": "2026-11-03T16:58:11.851Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T02:52:25.889Z",
+      "lastChecked": "2026-11-03T16:58:11.989Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T02:52:26.032Z",
+      "lastChecked": "2026-11-03T16:58:12.129Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T02:52:26.043Z",
+      "lastChecked": "2026-11-03T16:58:12.143Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlotteonthecheap.com/events/"
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:26.170Z",
+      "lastChecked": "2026-11-03T16:58:12.378Z",
       "candidateCount": 3,
       "error": null
     },
@@ -183,38 +183,12 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T02:52:26.479Z",
+      "lastChecked": "2026-11-03T16:58:12.818Z",
       "candidateCount": 1,
       "error": null
     }
   ],
   "events": [
-    {
-      "id": "3ce80ad6fe6d",
-      "title": "Coffee and Crafting (CON)",
-      "date": "2026-11-02",
-      "startTime": "10:00",
-      "endTime": null,
-      "venue": "Cabarrus Arts Council",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "November 2 @ 10:00 am Concord Library 27 Union St N, Concord, Concord, NC, United States Ages 18+ – Start your week off right, with coffee and a craft at the Concord Library. This month’s craft we’ll make Diamond Art Magnets! Adults only. Registration required. For more information, please visit Eve",
-      "source": "Cabarrus Arts Council",
-      "sourceUrl": "https://cabarrusartscouncil.org/events/",
-      "eventUrl": "https://cabarrusartscouncil.org/event/coffee-and-crafting-con-10/",
-      "tags": [
-        "coffee",
-        "21+"
-      ],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 7,
-      "score": 67,
-      "riskLabel": "Moderate",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "Location: nearby (4 miles away). This is a direct dessert, coffee, or drinks competitor.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
-    },
     {
       "id": "56376ed7962e",
       "title": "THC TUESDAYS",
@@ -308,6 +282,32 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "78c5ce328e04",
+      "title": "The Wednesday Pour @ Cellar Door Wine Shop",
+      "date": "2026-11-05",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "The Wednesday Pour: Your Weekly Wine Discovery Free wine tastings every Wednesday evening at Cellar Door Wine Shop, located in the heart of Downtown Concord. Drop in anytime between 5:00 and 7:00 pm for our casual, walk-up-style wine tastings. We’ll have a different guest each week – an importer, di",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/the-wednesday-pour-cellar-door-wine-shop/",
+      "tags": [
+        "free",
+        "taste"
+      ],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 9,
+      "score": 132,
+      "riskLabel": "High",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away). Free admission may pull casual walk-in traffic. Food event that may satisfy the same impulse as stopping at Boba Bean.",
+      "suggestedAction": "Plan a counter-promo: post a 3–5 PM drink special and an after-event treat promo from 8–9 PM."
+    },
+    {
       "id": "2716f5115247",
       "title": "Kid Crafters Corner (MTP)",
       "date": "2026-11-05",
@@ -357,30 +357,29 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
-      "id": "e139af8d6309",
-      "title": "AFICIONADO",
+      "id": "61b2ff5f63c6",
+      "title": "Video Game Night",
       "date": "2026-11-06",
-      "startTime": "18:00",
-      "endTime": "22:00",
+      "startTime": "18:30",
+      "endTime": "21:00",
       "venue": "Downtown Concord",
       "city": "Concord",
       "distanceMiles": 4,
-      "description": "AFICIONADO brings art, style, music, and community together all in one evening at bē Boutique + Gallery. Bring a friend and support local talent right in the heart of downtown Concord. Live Jazz is played every 2nd and 4th Monday of the month. A DJ set will be played every 1st and 3rd Monday of […]",
+      "description": "Do you love Video games as much as we do? Great! Come play every other Wednesday starting October 7th. We will have Nintendo Switch hooked up to the projector and other video games available to hook up to the TV. Bring a game to share or just play what we have! 04 Nov 6:30 pm - 9:00 pm Local Bottle",
       "source": "Downtown Concord",
       "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/aficionado-2/",
+      "eventUrl": "https://downtownconcordnc.com/events/video-game-night/",
       "tags": [
-        "live music",
-        "beer"
+        "game"
       ],
       "confidence": "medium",
       "needsReview": false,
       "sourceWeight": 9,
-      "score": 96,
+      "score": 89,
       "riskLabel": "High",
       "impactType": "Diversion Risk",
       "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+      "suggestedAction": "Post a 3–5 PM pre-event drink reminder. Run an after-event treat promo from 8–9 PM."
     },
     {
       "id": "dd5a4d02d727",
@@ -475,31 +474,6 @@
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "ed9883dc9a15",
-      "title": "Hors d’Oeuvres & Wine Pairing Class",
-      "date": "2026-11-07",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "venue": "Downtown Concord",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "Get ready for the holidays! Learn to prepare 3 different hors d’oeuvres and how to pair with wine. Taught by personal chef, Kimberly Frazier, and Cellar Door Wine Shop. Taste the hors d’oeuvres and wine during the class, then take the recipes and information to re-create at home. 02 Nov 7:00 pm - 9:",
-      "source": "Downtown Concord",
-      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/hors-doeuvres-wine-pairing-class/",
-      "tags": [
-        "taste"
-      ],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 9,
-      "score": 117,
-      "riskLabel": "High",
-      "impactType": "Diversion Risk",
-      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away). Food event that may satisfy the same impulse as stopping at Boba Bean.",
-      "suggestedAction": "Plan a counter-promo: post a 3–5 PM drink special and an after-event treat promo from 8–9 PM."
     },
     {
       "id": "01c26eefb1d1",
@@ -619,6 +593,29 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "16c2884e5fbe",
+      "title": "Spare Yarn (MTP)",
+      "date": "2026-11-10",
+      "startTime": "17:00",
+      "endTime": null,
+      "venue": "Cabarrus Arts Council",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Spare Yarn (MTP) November 10 @ 5:00 pm Mt. Pleasant Library 1111 North Washington Street, Mt. Pleasant, NC, United States Ages 6 – 11 –What can you do with spare yarn? We will explore many creative things to do with yarn including an obstacle course, creative art, math exploration, and even literacy",
+      "source": "Cabarrus Arts Council",
+      "sourceUrl": "https://cabarrusartscouncil.org/events/",
+      "eventUrl": "https://cabarrusartscouncil.org/event/spare-yarn-mtp/",
+      "tags": [],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 7,
+      "score": 55,
+      "riskLabel": "Moderate",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
+      "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
+    },
+    {
       "id": "c62f24c0d4b2",
       "title": "Kids Candy Crawl",
       "date": null,
@@ -697,33 +694,6 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: very close (3 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
-    },
-    {
-      "id": "e4f5a885344d",
-      "title": "Enjoy a FREE day of Coworking with the schedule of a tour!",
-      "date": null,
-      "startTime": null,
-      "endTime": null,
-      "venue": "Downtown Concord",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "Schedule a tour of Flywheel and work out of the space for the day! Take advantage of our free WiFi, coffee bar, phone rooms, and plenty of workspace. Reserve your tour today- https://calendly.com/saraflywheel/flywheel-tour We can’t wait to see you soon! This promotion is available Monday – Friday du",
-      "source": "Downtown Concord",
-      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
-      "eventUrl": "https://downtownconcordnc.com/events/enjoy-a-free-day-of-coworking-with-the-schedule-of-a-tour/",
-      "tags": [
-        "free",
-        "coffee",
-        "beer"
-      ],
-      "confidence": "low",
-      "needsReview": true,
-      "sourceWeight": 9,
-      "score": 66,
-      "riskLabel": "Moderate",
-      "impactType": "Mixed",
-      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Free admission may pull casual walk-in traffic. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
-      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
     },
     {
       "id": "9c840066c4f2",
