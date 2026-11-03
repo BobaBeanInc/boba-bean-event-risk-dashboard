@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:58:13.256Z",
+  "updatedAt": "2026-11-03T20:03:15.601Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Moderate",
@@ -15,7 +15,7 @@
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:57:55.360Z",
+      "lastChecked": "2026-11-03T20:03:01.686Z",
       "candidateCount": 7,
       "error": null
     },
@@ -23,7 +23,7 @@
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:57:56.015Z",
+      "lastChecked": "2026-11-03T20:03:02.436Z",
       "candidateCount": 4,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:57:57.702Z",
+      "lastChecked": "2026-11-03T20:03:03.620Z",
       "candidateCount": 4,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:57:59.658Z",
+      "lastChecked": "2026-11-03T20:03:04.868Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:02.175Z",
+      "lastChecked": "2026-11-03T20:03:06.265Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-11-03T16:58:02.516Z",
+      "lastChecked": "2026-11-03T20:03:06.786Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-11-03T16:58:05.114Z",
+      "lastChecked": "2026-11-03T20:03:07.404Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T16:58:05.260Z",
+      "lastChecked": "2026-11-03T20:03:07.537Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:05.643Z",
+      "lastChecked": "2026-11-03T20:03:07.952Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T16:58:06.820Z",
+      "lastChecked": "2026-11-03T20:03:08.418Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,7 +95,7 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:06.895Z",
+      "lastChecked": "2026-11-03T20:03:08.451Z",
       "candidateCount": 7,
       "error": null
     },
@@ -103,7 +103,7 @@
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:07.326Z",
+      "lastChecked": "2026-11-03T20:03:08.770Z",
       "candidateCount": 7,
       "error": null
     },
@@ -111,7 +111,7 @@
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:09.074Z",
+      "lastChecked": "2026-11-03T20:03:10.487Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,7 +119,7 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:09.397Z",
+      "lastChecked": "2026-11-03T20:03:11.010Z",
       "candidateCount": 295,
       "error": null
     },
@@ -127,15 +127,15 @@
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:10.145Z",
-      "candidateCount": 6,
+      "lastChecked": "2026-11-03T20:03:11.544Z",
+      "candidateCount": 5,
       "error": null
     },
     {
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:11.688Z",
+      "lastChecked": "2026-11-03T20:03:13.137Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "Partial",
-      "lastChecked": "2026-11-03T16:58:11.851Z",
+      "lastChecked": "2026-11-03T20:03:14.224Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T16:58:11.989Z",
+      "lastChecked": "2026-11-03T20:03:14.359Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T16:58:12.129Z",
+      "lastChecked": "2026-11-03T20:03:14.426Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-03T16:58:12.143Z",
+      "lastChecked": "2026-11-03T20:03:14.437Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlotteonthecheap.com/events/"
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:12.378Z",
+      "lastChecked": "2026-11-03T20:03:14.577Z",
       "candidateCount": 3,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "OK",
-      "lastChecked": "2026-11-03T16:58:12.818Z",
+      "lastChecked": "2026-11-03T20:03:15.170Z",
       "candidateCount": 1,
       "error": null
     }
@@ -234,29 +234,6 @@
       "impactType": "Diversion Risk",
       "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
       "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
-    },
-    {
-      "id": "0ca4a2d23af4",
-      "title": "Music and Movement (MID)",
-      "date": "2026-11-03",
-      "startTime": "11:00",
-      "endTime": null,
-      "venue": "Cabarrus Arts Council",
-      "city": "Concord",
-      "distanceMiles": 4,
-      "description": "November 3 @ 11:00 am Midland Library 4297 NC-24 27 C, Midland, NC, United States Ages 3-5 with caregiver – Join us for a fun and energetic program of movement, mindfulness, interactive stories, and music. No registration. For more information, please visit Events for November 2026 – Cabarrus County",
-      "source": "Cabarrus Arts Council",
-      "sourceUrl": "https://cabarrusartscouncil.org/events/",
-      "eventUrl": "https://cabarrusartscouncil.org/event/music-and-movement-mid-8/",
-      "tags": [],
-      "confidence": "medium",
-      "needsReview": false,
-      "sourceWeight": 7,
-      "score": 20,
-      "riskLabel": "Minimal",
-      "impactType": "Low Relevance",
-      "whyItMatters": "Location: nearby (4 miles away).",
-      "suggestedAction": "Minimal impact expected. No action required."
     },
     {
       "id": "dd34a541f654",
