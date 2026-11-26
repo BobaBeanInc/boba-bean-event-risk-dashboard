@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:56:51.579Z",
+  "updatedAt": "2026-11-26T22:14:44.512Z",
   "timezone": "America/New_York",
   "summary": {
     "todayRisk": "Minimal",
@@ -8,22 +8,22 @@
     "weekHighestRiskDay": "2026-11-28",
     "highRiskCount": 0,
     "opportunityCount": 0,
-    "needsReviewCount": 9
+    "needsReviewCount": 10
   },
   "sourceHealth": [
     {
       "name": "Downtown Concord",
       "url": "https://downtownconcordnc.com/event-calendar/",
-      "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:41.263Z",
-      "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "status": "OK",
+      "lastChecked": "2026-11-26T22:14:32.927Z",
+      "candidateCount": 1,
+      "error": null
     },
     {
       "name": "City of Kannapolis Calendar",
       "url": "https://www.kannapolisnc.gov/Community/Calendar",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:41.476Z",
+      "lastChecked": "2026-11-26T22:14:33.656Z",
       "candidateCount": 8,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Explore Cabarrus Events",
       "url": "https://www.explorecabarrus.com/events/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:42.687Z",
+      "lastChecked": "2026-11-26T22:14:34.518Z",
       "candidateCount": 1,
       "error": null
     },
@@ -39,7 +39,7 @@
       "name": "Explore Cabarrus Things To Do",
       "url": "https://www.explorecabarrus.com/things-to-do/events-things-to-do/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:43.000Z",
+      "lastChecked": "2026-11-26T22:14:34.771Z",
       "candidateCount": 3,
       "error": null
     },
@@ -47,7 +47,7 @@
       "name": "Cabarrus Arena Events",
       "url": "https://www.cabarrusarena.com/events-tickets/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:43.098Z",
+      "lastChecked": "2026-11-26T22:14:34.872Z",
       "candidateCount": 11,
       "error": null
     },
@@ -55,7 +55,7 @@
       "name": "Kannapolis Cannon Ballers Schedule",
       "url": "https://www.milb.com/kannapolis/schedule",
       "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:43.596Z",
+      "lastChecked": "2026-11-26T22:14:35.308Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -63,7 +63,7 @@
       "name": "Charlotte Motor Speedway",
       "url": "https://www.charlottemotorspeedway.com/events/",
       "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:46.382Z",
+      "lastChecked": "2026-11-26T22:14:37.228Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -71,7 +71,7 @@
       "name": "zMAX Dragway",
       "url": "https://www.charlottemotorspeedway.com/events/zmax-dragway/",
       "status": "Failed",
-      "lastChecked": "2026-11-26T18:56:46.525Z",
+      "lastChecked": "2026-11-26T22:14:37.319Z",
       "candidateCount": 0,
       "error": "HTTP 404 from https://www.charlottemotorspeedway.com/events/zmax-dragway/"
     },
@@ -79,7 +79,7 @@
       "name": "Concord Mills Events",
       "url": "https://www.simon.com/mall/concord-mills/stream/events",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:47.148Z",
+      "lastChecked": "2026-11-26T22:14:37.699Z",
       "candidateCount": 25,
       "error": null
     },
@@ -87,7 +87,7 @@
       "name": "Gibson Mill",
       "url": "https://www.gibsonmillnc.com/",
       "status": "Failed",
-      "lastChecked": "2026-11-26T18:56:47.769Z",
+      "lastChecked": "2026-11-26T22:14:38.215Z",
       "candidateCount": 0,
       "error": "getaddrinfo ENOTFOUND www.gibsonmillnc.com"
     },
@@ -95,23 +95,23 @@
       "name": "The Bank Food Hall",
       "url": "https://www.thebankfoodhall.com/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:47.812Z",
+      "lastChecked": "2026-11-26T22:14:38.256Z",
       "candidateCount": 6,
       "error": null
     },
     {
       "name": "Cabarrus Brewing Company",
       "url": "https://www.cabarrusbrewing.com/events",
-      "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:48.219Z",
-      "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "status": "OK",
+      "lastChecked": "2026-11-26T22:14:38.515Z",
+      "candidateCount": 11,
+      "error": null
     },
     {
       "name": "High Branch Brewing",
       "url": "https://www.highbranchbrewing.com/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:48.501Z",
+      "lastChecked": "2026-11-26T22:14:40.401Z",
       "candidateCount": 8,
       "error": null
     },
@@ -119,23 +119,23 @@
       "name": "City of Concord Parks and Recreation",
       "url": "https://concordnc.gov/Departments/Parks-Recreation/Events",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:48.780Z",
+      "lastChecked": "2026-11-26T22:14:40.724Z",
       "candidateCount": 295,
       "error": null
     },
     {
       "name": "Cabarrus Arts Council",
       "url": "https://cabarrusartscouncil.org/events/",
-      "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:49.401Z",
-      "candidateCount": 0,
-      "error": "Parser found no event candidates. Site markup may have changed."
+      "status": "OK",
+      "lastChecked": "2026-11-26T22:14:41.178Z",
+      "candidateCount": 3,
+      "error": null
     },
     {
       "name": "Cabarrus Chamber",
       "url": "https://cabarrusncchamber.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:49.614Z",
+      "lastChecked": "2026-11-26T22:14:42.783Z",
       "candidateCount": 10,
       "error": null
     },
@@ -143,7 +143,7 @@
       "name": "Great Wolf Lodge Concord",
       "url": "https://www.greatwolf.com/concord",
       "status": "Partial",
-      "lastChecked": "2026-11-26T18:56:49.811Z",
+      "lastChecked": "2026-11-26T22:14:42.968Z",
       "candidateCount": 0,
       "error": "Parser found no event candidates. Site markup may have changed."
     },
@@ -151,7 +151,7 @@
       "name": "Eventbrite - Concord",
       "url": "https://www.eventbrite.com/d/nc--concord/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-26T18:56:50.075Z",
+      "lastChecked": "2026-11-26T22:14:43.094Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--concord/events/"
     },
@@ -159,7 +159,7 @@
       "name": "Eventbrite - Kannapolis",
       "url": "https://www.eventbrite.com/d/nc--kannapolis/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-26T18:56:50.340Z",
+      "lastChecked": "2026-11-26T22:14:43.238Z",
       "candidateCount": 0,
       "error": "HTTP 405 from https://www.eventbrite.com/d/nc--kannapolis/events/"
     },
@@ -167,7 +167,7 @@
       "name": "Charlotte on the Cheap",
       "url": "https://www.charlotteonthecheap.com/events/",
       "status": "Failed",
-      "lastChecked": "2026-11-26T18:56:50.359Z",
+      "lastChecked": "2026-11-26T22:14:43.245Z",
       "candidateCount": 0,
       "error": "HTTP 403 from https://www.charlotteonthecheap.com/events/"
     },
@@ -175,7 +175,7 @@
       "name": "Visit Lake Norman Events",
       "url": "https://www.visitlakenorman.org/events/",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:50.561Z",
+      "lastChecked": "2026-11-26T22:14:43.359Z",
       "candidateCount": 4,
       "error": null
     },
@@ -183,7 +183,7 @@
       "name": "Charlottes Got A Lot",
       "url": "https://www.charlottesgotalot.com/events",
       "status": "OK",
-      "lastChecked": "2026-11-26T18:56:51.148Z",
+      "lastChecked": "2026-11-26T22:14:43.938Z",
       "candidateCount": 2,
       "error": null
     }
@@ -238,6 +238,31 @@
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (7 miles away). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
+      "id": "c5f909516bb3",
+      "title": "Christmas At Cabarrus- Christmas Market",
+      "date": "2026-11-28",
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/christmas-at-cabarrus-christmas-market/",
+      "tags": [
+        "market"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 10,
+      "riskLabel": "Minimal",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
       "id": "97bb3818994e",
@@ -355,6 +380,31 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "6d4374d03bb9",
+      "title": "Art on the Go: Ceramic Ornaments",
+      "date": "2026-12-02",
+      "startTime": "14:00",
+      "endTime": null,
+      "venue": "Cabarrus Arts Council",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Featured December 2 @ 2:00 pm Afton Ridge Library 6095 Glen Afton Boulevard, Kannapolis, NC, United States Adults only! Get crafty with clay as we make ornaments together to spread holiday cheer. Participants will be provided with air-dry clay and materials to make their own creations using basic ha",
+      "source": "Cabarrus Arts Council",
+      "sourceUrl": "https://cabarrusartscouncil.org/events/",
+      "eventUrl": "https://cabarrusartscouncil.org/event/art-on-the-go-ceramic-ornaments/",
+      "tags": [
+        "21+"
+      ],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 7,
+      "score": 27,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Location: nearby (4 miles away).",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "ad3c66577011",
       "title": "Dec 02",
       "date": "2026-12-02",
@@ -378,6 +428,56 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "d259be4ae419",
+      "title": "Old Courthouse Theatre Presents: “Annie”",
+      "date": "2026-12-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "venue": "Cabarrus Arts Council",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "December 3, 2026 @ 7:30 pm - February 13, 2027 @ 7:30 pm Old Courthouse Theatre 49 Spring St NW Concord, NC 28025, Concord, NC, United States Leapin' Lizards! The irrepressible comic strip heroine takes center stage in one of the world's best-loved musicals. With equal measures of pluck and positivi",
+      "source": "Cabarrus Arts Council",
+      "sourceUrl": "https://cabarrusartscouncil.org/events/",
+      "eventUrl": "https://cabarrusartscouncil.org/event/old-courthouse-theatre-presents-annie/",
+      "tags": [
+        "live music"
+      ],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 7,
+      "score": 65,
+      "riskLabel": "Moderate",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
+      "suggestedAction": "Watch staffing. Consider a soft social post to stay top-of-mind during the event window."
+    },
+    {
+      "id": "47747569b6c0",
+      "title": "Art on the Go: Ceramic Ornaments",
+      "date": "2026-12-03",
+      "startTime": "18:00",
+      "endTime": null,
+      "venue": "Cabarrus Arts Council",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Featured December 3 @ 6:00 pm Kannapolis Library 850 Mountain St, Kannapolis, NC, United States Adults only! Get crafty with clay as we make ornaments together to spread holiday cheer. Participants will be provided with air-dry clay and materials to make their own creations using basic hand-building",
+      "source": "Cabarrus Arts Council",
+      "sourceUrl": "https://cabarrusartscouncil.org/events/",
+      "eventUrl": "https://cabarrusartscouncil.org/event/art-on-the-go-ceramic-ornaments-2/",
+      "tags": [
+        "21+"
+      ],
+      "confidence": "medium",
+      "needsReview": false,
+      "sourceWeight": 7,
+      "score": 62,
+      "riskLabel": "Moderate",
+      "impactType": "Diversion Risk",
+      "whyItMatters": "This event overlaps the 5–9 PM window when Boba Bean sees evening traffic. Location: nearby (4 miles away).",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "747abcda9ef2",
       "title": "Dec 03",
       "date": "2026-12-03",
@@ -398,6 +498,32 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (8 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "c62f24c0d4b2",
+      "title": "Kids Candy Crawl",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Saturday, October 31st from 4pm to 8pm for Kids Candy Crawl! Decorate your own candy crawl table contest!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/kids-candy-crawl-2/",
+      "tags": [
+        "kids",
+        "dessert"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 73,
+      "riskLabel": "Moderate",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Targets families and kids — a core Boba Bean audience. This is a direct dessert, coffee, or drinks competitor. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -452,6 +578,33 @@
       "riskLabel": "Moderate",
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: very close (3 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "9c840066c4f2",
+      "title": "Vegan Vibes",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Sunday, November 15th from 12pm to 5pm for Vegan Vibes Music Series Fall Edition. There will be live music, vegan food trucks, vegan vendors, and more!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/vegan-vibes-4/",
+      "tags": [
+        "food truck",
+        "vendor",
+        "live music"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 65,
+      "riskLabel": "Moderate",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Food event that may satisfy the same impulse as stopping at Boba Bean. Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -583,6 +736,32 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "62e5986bd89d",
+      "title": "Emory and Erika’s Spooky but Not So Scary Spooktacular",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on October 31st for Emory and Erika's Spooky but Not So Scary Spooktacular. From 5:30pm to 7:00pm at Cabarrus Brewing Company. There will be a free meet and greet with characters from 5:30 to 7:30pm.",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/emory-and-erikas-spooky-but-not-so-scary-spooktacular/",
+      "tags": [
+        "free",
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 35,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "e63e938e992b",
       "title": "Career Connections Day",
       "date": null,
@@ -606,6 +785,57 @@
       "riskLabel": "Low",
       "impactType": "Mixed",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Draws teens and students who may otherwise stop in. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "13c4b53b2984",
+      "title": "FREE Country Swing Dance",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Tuesday, November 17th at 7pm for free country swing dance! No partner is needed. Located upstairs in the Mezzanine!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/free-country-swing-dance/",
+      "tags": [
+        "free"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 31,
+      "riskLabel": "Low",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Free admission may pull casual walk-in traffic. Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "84515ed7a4c4",
+      "title": "Christmas At Cabarrus- Christmas Market",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Saturday, November 28th from 10am to 5pm for the 10th Annual Christmas At Cabarrus Holiday Market! There will be dozens of Christmas vendor booths!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/christmas-at-cabarrus-christmas-market/",
+      "tags": [
+        "market",
+        "vendor"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 22,
+      "riskLabel": "Minimal",
+      "impactType": "Mixed",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -7353,6 +7583,56 @@
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
+      "id": "8cd98c41e43a",
+      "title": "Run Club End of Season Party",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us for the run club end of season party on October 29th in the Taproom from 7pm to 9pm!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/run-club-end-of-season-party/",
+      "tags": [
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 7,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
+      "id": "a47e279d9b33",
+      "title": "CBC Music Bingo",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us in the CBC Taproom on Monday, November 16th for Music Bingo from 6:oopm to 8:oopm!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/cbc-music-bingo-5/",
+      "tags": [
+        "brewery"
+      ],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": 7,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Watch staffing, but this likely affects adults more than families. Limited action needed."
+    },
+    {
       "id": "ee1b6d9b573a",
       "title": "The Game Show Arena",
       "date": null,
@@ -7375,6 +7655,29 @@
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: moderate distance (9 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "931b4660011b",
+      "title": "Closed Thanksgiving",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Downtown Concord",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Closed Thanksgiving 26 Nov All Day First-N-Flights 22 Union St. North Ste 106 FacebookTwitterLinkedinEmail View Detail",
+      "source": "Downtown Concord",
+      "sourceUrl": "https://downtownconcordnc.com/event-calendar/",
+      "eventUrl": "https://downtownconcordnc.com/events/closed-thanksgiving/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 9,
+      "score": 2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
       "suggestedAction": "Manual review needed before making staffing or promo decisions."
     },
     {
@@ -8131,6 +8434,75 @@
       "needsReview": true,
       "sourceWeight": 6,
       "score": -1,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "d0f61a845922",
+      "title": "Swing Dance Lessons",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us for swing dance lessons on Tuesday, October 27th!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/swing-dance-lessons-2/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": -2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "258e76a3b336",
+      "title": "Paint & Sip",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Thursday, November 19th for Paint & Sip from 6:00pm to 8:00pm!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/paint-sip-13/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": -2,
+      "riskLabel": "Minimal",
+      "impactType": "Low Relevance",
+      "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
+      "suggestedAction": "Manual review needed before making staffing or promo decisions."
+    },
+    {
+      "id": "e1a7c5ab4d4a",
+      "title": "Sip & Script",
+      "date": null,
+      "startTime": null,
+      "endTime": null,
+      "venue": "Cabarrus Brewing",
+      "city": "Concord",
+      "distanceMiles": 4,
+      "description": "Join us on Sunday, November 22nd for Sip & Script from 3:30pm to 5pm!",
+      "source": "Cabarrus Brewing Company",
+      "sourceUrl": "https://www.cabarrusbrewing.com/events",
+      "eventUrl": "https://www.cabarrusbrewing.com/event/sip-script-7/",
+      "tags": [],
+      "confidence": "low",
+      "needsReview": true,
+      "sourceWeight": 5,
+      "score": -2,
       "riskLabel": "Minimal",
       "impactType": "Low Relevance",
       "whyItMatters": "Details need manual review before acting on this. Time note: time unclear. Location: nearby (4 miles away). Confidence is low — this event may not be current or accurate.",
